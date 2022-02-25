@@ -1,0 +1,1047 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hell reformed or A glasse for favorits Their falls and complaints also the complaints of princes against their favorits. With the dangerous mischiefes of state politicks, flatterers, suborners, secret accusers, false witnesses, &amp;c. Also the reasons of a devill, why he had rather continue in hell; then returne and live againe on earth. With the acclamations of a testator, for making his will before hee dyed: and his advice to others therein. Also the decree of Lucifer, for reformation. With many other notable passages, worthy observation. Discovered in a vision, by D:F:Q:V: A Spanish knight, of the Order of Saint Iames, and Lord of Ivan-Abad. Published by E:M: gent.</title>
+            <title>Infierno enmendado. English.</title>
+            <author>Quevedo, Francisco de, 1580-1645.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 128 KB of XML-encoded text transcribed from 69 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56891</idno>
+            <idno type="STC">Wing Q189</idno>
+            <idno type="STC">ESTC R220636</idno>
+            <idno type="EEBO-CITATION">99832032</idno>
+            <idno type="PROQUEST">99832032</idno>
+            <idno type="VID">36500</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56891)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36500)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2055:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hell reformed or A glasse for favorits Their falls and complaints also the complaints of princes against their favorits. With the dangerous mischiefes of state politicks, flatterers, suborners, secret accusers, false witnesses, &amp;c. Also the reasons of a devill, why he had rather continue in hell; then returne and live againe on earth. With the acclamations of a testator, for making his will before hee dyed: and his advice to others therein. Also the decree of Lucifer, for reformation. With many other notable passages, worthy observation. Discovered in a vision, by D:F:Q:V: A Spanish knight, of the Order of Saint Iames, and Lord of Ivan-Abad. Published by E:M: gent.</title>
+                  <title>Infierno enmendado. English.</title>
+                  <author>Quevedo, Francisco de, 1580-1645.</author>
+                  <author>Messervy, Edward.</author>
+               </titleStmt>
+               <extent>[24], 112 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by E: Griffin for Simon Burton, and are to be sold at his shop next the Miter Taverne within Algate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>D.F.Q.V. = Francisco de Quevedo; E.M. = Edward Messervy.</note>
+                  <note>A translation into English by Edward Messervy of Francisco de Quevedos̀ Èl infierno enmendado,̀ the first Spanish edition of which was published separately in Gerona in 1628, then subsequently added to the other six books of his S̀ueños.̀</note>
+                  <note>Dedication signed: Edvvard Messervy.</note>
+                  <note>With a preliminary table.</note>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36500:1" rendition="simple:additions"/>
+            <p>HELL REFORMED OR A GLASSE FOR FAVORITS. Their Falls and complaints Alſo the Complaints of Princes againſt their Favorits.</p>
+            <p>With the dangerous miſchiefes of State Politicks, Flatterers, Subor<g ref="char:EOLhyphen"/>ners, Secret Accuſers, Falſe witneſſes, &amp;c.</p>
+            <p>Alſo the Reaſons of a Devill, why he had rather continue in hell; then returne and live againe on earth.</p>
+            <p>With the acclamations of a Teſtator, for making his will before hee dyed: And his advice to others therein.</p>
+            <p>Alſo the decree of Lucifer, for Reformation. With many other notable paſſages, worthy obſervation.</p>
+            <p>Diſcovered in a viſion, By <hi>D: F: Q: V:</hi> A Spaniſh Knight, of the Order of Saint <hi>Iames,</hi> and Lord of
+<hi>Ivan-Abad.</hi>
+            </p>
+            <p>Publiſhed by <hi>E: M:</hi> Gent.</p>
+            <p>LONDON, Printed by <hi>E: Griffin</hi> for <hi>Simon Burton,</hi> and are to be ſold at his Shop next the <hi>Miter Taverne</hi> within Algate.
+1641.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:36500:2"/>
+            <pb facs="tcp:36500:2"/>
+            <head>TO THE MOST NOBLE, <hi>HENRY JERMYN</hi> Eſquire, Maſter of the Horſe, to the QVEENES Moſt Excellent Majeſty.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Hold it no Sa<g ref="char:EOLhyphen"/>criledge, after the Example of our
+<hi>Fore-Fathers</hi> of the <hi>Old <pb facs="tcp:36500:3"/>Teſtament,</hi> (whom the
+<hi>Law</hi> enjoyned to offer their <hi>Firſt-borne</hi> unto the LORD.) to preſent you, as my <hi>Rightfull Lord</hi> with the <hi>Premiſ<g ref="char:EOLhyphen"/>ſes</hi> and <hi>Firſt-Fruits</hi> of the ſpare Houres, J lately ſpent in the Tranſlation of the enſuing Diſcourſe: For, J know none, after the
+<hi>King,</hi> and the <hi>Right Honourable Your Father,</hi> unto whom I owe this due, but <hi>Your Selfe:</hi> Since, <hi>His Ma<g ref="char:EOLhyphen"/>jeſty</hi> 
+               <pb facs="tcp:36500:3"/>hath ſet ſo great a <hi>Value</hi> on <hi>Your Me<g ref="char:EOLhyphen"/>rit, Vertue,</hi> and <hi>Birth,</hi> as to deſigne <hi>You</hi> to the <hi>Government</hi> of that <hi>Iſle,</hi> where J tooke my firſt Breath, and where the <hi>Right Honourable Your Father,</hi> makes the Inhabitants to live in a <hi>Golden Age:</hi> where<g ref="char:EOLhyphen"/>by they are bound to lift up their joynt Votes unto
+<hi>Heaven,</hi> for <hi>His Ma<g ref="char:EOLhyphen"/>jeſties Long and Flouriſhing Raigne
+<pb facs="tcp:36500:4"/>in Health and Hap<g ref="char:EOLhyphen"/>pineſſe;</hi> who doth afford them, ſo
+<hi>Good</hi> &amp; <hi>Wiſe Governours,</hi> and thoſe continued in a
+<hi>moſt No<g ref="char:EOLhyphen"/>ble Line;</hi> ſo as I ac<g ref="char:EOLhyphen"/>knowledge myſelfe divers waies obliged to dedicate unto <hi>You</hi> this ſmall La<g ref="char:EOLhyphen"/>bour: Firſt, as to my
+<hi>Rightfull Lord,</hi> being confident, that in imitation of the <hi>Right Honou<g ref="char:EOLhyphen"/>rable Your Father, You</hi> will cauſe the ſaid Jnhabitants, to enjoy the <pb facs="tcp:36500:4"/>like Peace and Plenty, under <hi>Your</hi> Govern<g ref="char:EOLhyphen"/>ment: next, as Holding my ſmall Patrimony and Fee, immediately from <hi>You,</hi> whilſt <hi>You</hi> repre<g ref="char:EOLhyphen"/>ſent the <hi>Kings Majeſty</hi> there: whereunto may al<g ref="char:EOLhyphen"/>ſo be added, the infinite Obligations J owe <hi>You</hi> in particular; whereby J reape this further advan<g ref="char:EOLhyphen"/>tage, that ſlaunderers can<g ref="char:EOLhyphen"/>not juſtly ſay, that J have any further end herein, but onely to render
+<hi>You</hi> 
+               <pb facs="tcp:36500:5"/>moſt humble thankes, for the benefits have already received, from <hi>Your Generoſity.</hi> Beſides, I am confident, that
+<hi>Your</hi> Name appearing in the Frontiſpice of this Booke, will ſerve to Protect it, from the malice of thoſe, who would diſallow the Authour for being a Spa<g ref="char:EOLhyphen"/>niard, which J aſſure my ſelfe, will be no leſse ac<g ref="char:EOLhyphen"/>ceptable in this Court in the Engliſh habit (being countenanced by
+<hi>You,</hi> 
+               <pb facs="tcp:36500:5" rendition="simple:additions"/>who ſeeme to be the <hi>Moe<g ref="char:EOLhyphen"/>cenas</hi> of Strangers) then he hath beene in <hi>France,</hi> clad according to the fa<g ref="char:EOLhyphen"/>ſhion there; where he hath paſſed the Preſſe, without other, then Vniverſall Pa<g ref="char:EOLhyphen"/>tronage: For, ſeeing his chiefe aime, is, to ſuppreſse Vice, and to open a path to Vertue, (though in a Satyricall way,) his de<g ref="char:EOLhyphen"/>ſigne and mine cannot but take effect. Since, deteſting Vice,
+<hi>You</hi> poſſeſse Vertue it ſelfe, and are no way <pb facs="tcp:36500:6"/>like unto thoſe Courtiers, of whom he ſpeakes in this Treatiſe: otherwiſe, that <hi>Great Queene</hi> (whoſe <hi>Life</hi> may much rather be Admired, then Imi<g ref="char:EOLhyphen"/>tated) had not elected <hi>You,</hi> for the diſcharge of one of the Moſt Honourable Places in <hi>Her</hi> Service. Finally, as <hi>You</hi> are borne to bee <hi>Happy</hi> on <hi>Earth,</hi> that <hi>You</hi> may likewiſe bee ſo in <hi>Heaven,</hi> ſhall bee the <pb facs="tcp:36500:6"/>conſtant Prayer of him who is,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Yours moſt obliged, moſt obedient, and moſt honouring Servant, EDVVARD MESSERVY.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:36500:7"/>
+            <head>A PREFACE FROM THE TRANSLATOR TO THE JUDICIOUS READER.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">G</seg>Entle Reader,</hi> It followes of ne<g ref="char:EOLhyphen"/>ceſſity, that you will have ſome<g ref="char:EOLhyphen"/>thing to ſay againſt me, be<g ref="char:EOLhyphen"/>cauſe I put to light this ſe<g ref="char:EOLhyphen"/>venth <hi>Viſion,</hi> making no men<g ref="char:EOLhyphen"/>tion of the ſix firſt, that ought to precede, to the end, that the order and intention of <pb facs="tcp:36500:7"/>that Noble Knight, <hi>DonFran<g ref="char:EOLhyphen"/>ciſco de Quevedo,</hi> Author of the
+<hi>Viſions,</hi> ſhould not be per<g ref="char:EOLhyphen"/>verted, who is held amongſt men of judgement, one of the ripeſt wits of this age, his writings being filled w<hi rend="sup">th</hi> rich conceptions, and a thouſand good conceits, (whereof you ſhall ſee a delectable paterne in this <hi>Viſion</hi>) which Ieaves much ſatisfaction and con<g ref="char:EOLhyphen"/>tent to the Iudicious Reader; beſides his intention, which is to be eſteemed, ſince it tends to a good and holy re<g ref="char:EOLhyphen"/>formation of life, repreſen<g ref="char:EOLhyphen"/>ting Vice unto us, to the end we ſhould abhorre it, alſo he doth not ſpeake to the vertu<g ref="char:EOLhyphen"/>ous, <pb facs="tcp:36500:8"/>but to the wicked who are paſt correction, &amp; doubt<g ref="char:EOLhyphen"/>leſſe, there will be none but the laſt that will diſprove it, and by that meanes they will make it appeare, that they have a mind I ſhould be their Harbinger to appoint their lodgings in the Empire of <hi>Pluto,</hi> deſtined to the vitious and obſtinate. I have alſo exactly tranſlated in our Tongue, the ſaid ſix firſt
+<hi>Viſions;</hi> and have clad this Spaniſh Knight, after this Countrey faſhion, at the re<g ref="char:EOLhyphen"/>queſt of my friends, and for the Publike good, (which may be moved to a good &amp; holy reformation;) rather <pb facs="tcp:36500:8"/>then for my owne ſatisfacti<g ref="char:EOLhyphen"/>on; And for ſome reaſons beſt knowne to my ſelfe, I have made a demurre of pre<g ref="char:EOLhyphen"/>ſenting them unto you untill you have ſeene this, hoping that you will make the e<g ref="char:EOLhyphen"/>ſteeme of it, that the reputati<g ref="char:EOLhyphen"/>on of this Author merits, who hath beene admired in all Tongues and Countries, where he hath beene received with great applauſe, &amp; alſo a<g ref="char:EOLhyphen"/>mongſt Nations more groſſe, and every way inferiour unto us. I alſo deſire you (moſt deere Reader) to paſſe by the faults of this Booke, in caſe there be any, and to correct them your ſelfe; Aſſuring you <pb facs="tcp:36500:9"/>if there be any,
+'tis againſt my will, and ſhall be a meere de<g ref="char:EOLhyphen"/>fect in the impreſſion. Alſo, know that I am not in the humour to in ſert an <hi>Errata,</hi> becauſe I hold it not decent; and am ſure that thoſe who ſhall read my Booke, if they are men of underſtanding finding of them will have charity enough to correct them; but if they are others, care not.
+<hi>Farewell.</hi>
+            </p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:36500:9" rendition="simple:additions"/>
+            <head>THE TABLE OF HELL REFORMED.</head>
+            <list>
+               <head>A</head>
+               <item>ABdolominus. p. <hi>19</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Accuſation</hi> Againſt the Merchants evill Angell. p. <hi>52</hi>
+                     </item>
+                     <item>Againſt the Thiefes
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>vill An<g ref="char:EOLhyphen"/>gell. p.
+<hi>86</hi>
+                     </item>
+                  </list> 
+               </item>
+               <item>Secret Accuſers. p. <hi>2, 6, 52</hi>
+               </item>
+               <item>Achillas. p. <hi>13</hi>
+               </item>
+               <item>Adonis. p. <hi>63</hi>
+               </item>
+               <item>Advocats. p. <hi>3</hi>
+               </item>
+               <item>
+                  <hi>Alexanders</hi> conteſtation againſt <hi>Clitus</hi> his Favorite. p. <hi>16</hi>
+               </item>
+               <pb facs="tcp:36500:10"/>
+               <item>
+                  <hi>Aminta.</hi> p. <hi>20</hi>
+               </item>
+               <item>Generals of Armies. p. <hi>16</hi>
+               </item>
+               <item>Armes. p. <hi>37</hi>
+               </item>
+               <item>
+                  <hi>Auguſtus.</hi> p. <hi>41</hi>
+               </item>
+            </list>
+            <list>
+               <head>B</head>
+               <item>
+                  <hi>Belizarus Iuſtinians</hi> Favorite. p.
+<hi>34</hi>
+               </item>
+               <item>
+                  <hi>Brutus.</hi> p. <hi>9</hi>
+               </item>
+               <item>Buſy-body. p. <hi>4</hi>
+               </item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>
+                  <hi>I. Caeſar.</hi> p. <hi>9</hi>
+               </item>
+               <item>
+                  <hi>Caliſthenes.</hi> p. <hi>20</hi>
+               </item>
+               <item>
+                  <hi>Caſſius.</hi> p. <hi>9</hi>
+               </item>
+               <item>
+                  <hi>Clitus.</hi> p. <hi>16</hi>
+               </item>
+               <item>
+                  <hi>Complaint</hi>
+                  <list>
+                     <item>Of <hi>Caeſar</hi> againſt <hi>Brutus</hi> and
+<hi>Caſſius.</hi> p. <hi>9</hi>
+                     </item>
+                     <item>Of <hi>Belizarius Juſtinians</hi> Favo<g ref="char:EOLhyphen"/>rite. p.
+<hi>34</hi>
+                     </item>
+                     <item>Of <hi>Plantianus</hi> againſt <hi>Severus.</hi> p.
+<hi>32</hi>
+                     </item>
+                     <item>of <hi>Sejanus</hi> againſt <hi>Tiberius.</hi> p.
+<hi>28</hi>
+                     </item>
+                     <item>of <hi>Seneca</hi> againſt <hi>Nero.</hi> p.
+<hi>21</hi>
+                     </item>
+                     <item>of <hi>Solon</hi> againſt Tyrants. p.
+<hi>39</hi>
+                     </item>
+                     <item>of <hi>Suetonius.</hi> p. <hi>51</hi>
+                     </item>
+                  </list> 
+               </item>
+               <item>The evill Angell of Conſequence. p. <hi>95</hi>
+               </item>
+               <item>The evill Angell of Cuckolds. p. <hi>97</hi>
+               </item>
+            </list>
+            <pb facs="tcp:36500:10"/>
+            <list>
+               <head>D</head>
+               <item>
+                  <hi>Darius.</hi> p. <hi>19</hi>
+               </item>
+               <item>Decree of <hi>Lucifer.</hi> p. <hi>103</hi>
+               </item>
+               <item>Decrepitude and its miſery. p. <hi>66</hi>
+               </item>
+               <item>The devills juſtification. p. <hi>88</hi>
+               </item>
+               <item>
+                  <hi>Dionyſius</hi> his reply. p. <hi>41</hi>
+               </item>
+               <item>
+                  <hi>Domitians</hi> revenge upon <hi>Suetonius</hi> p.
+<hi>47</hi>
+               </item>
+               <item>
+                  <hi>Doüegna.</hi> p. <hi>2, 6, 76</hi>
+               </item>
+               <item>Invective againſt a <hi>Doüegna.</hi> p.
+<hi>76</hi>
+               </item>
+            </list>
+            <list>
+               <head>E</head>
+               <item>Effects of Proſperity. p. <hi>104</hi>
+               </item>
+               <item>Emperours. p. <hi>8, 16</hi>
+               </item>
+               <item>Envious. p. <hi>59</hi>
+               </item>
+            </list>
+            <list>
+               <head>F</head>
+               <item>Falſe witneſſe. p. <hi>7</hi>
+               </item>
+               <item>Fathers without Children. p. <hi>54</hi>
+               </item>
+               <item>Favorits. p. <hi>17, 21, 26</hi>
+               </item>
+               <item>Flatterers. p. <hi>3, 110</hi>
+               </item>
+               <item>Foſterers of envy. p. <hi>22</hi>
+               </item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>Generalls of Armyes. p. <hi>16</hi>
+               </item>
+            </list>
+            <list>
+               <head>H</head>
+               <item>
+                  <hi>Habakkuk</hi> Prophet. p. <hi>35.</hi>
+               </item>
+               <item>Halfe Hermite or Hypocrite. p. <hi>4</hi>
+               </item>
+               <item>Hypocrites. p. <hi>5, 78</hi>
+               </item>
+            </list>
+            <pb facs="tcp:36500:11"/>
+            <list>
+               <head>I</head>
+               <item>Idlenes the mother of Vice. p. <hi>107</hi>
+               </item>
+               <item>Infancy and its miſery. p. <hi>6</hi>
+               </item>
+               <item>Inter-meddlers of others affaires. p. <hi>111</hi>
+               </item>
+               <item>Invective againſt a <hi>Doüegna.</hi> p.
+<hi>76</hi>
+               </item>
+               <item>
+                  <hi>Iulians</hi> reply. p. <hi>41</hi>
+               </item>
+               <item>
+                  <hi>Iulius Caeſar.</hi> p. <hi>9</hi>
+               </item>
+               <item>
+                  <hi>Iupiter.</hi> p. <hi>19</hi>
+               </item>
+               <item>Iuſtification of a Senator againſt <hi>Caeſar.</hi> p.
+<hi>13</hi>
+               </item>
+               <item>The devills Iuſtification. p. <hi>88</hi>
+               </item>
+               <item>
+                  <hi>Belizarius Iuſtinians</hi> Favorit. p.
+<hi>34</hi>
+               </item>
+            </list>
+            <list>
+               <head>L</head>
+               <item>Lawyers. p. <hi>3</hi>
+               </item>
+               <item>Love in old people troubleſome p. <hi>66</hi>
+               </item>
+               <item>
+                  <hi>Lucanus</hi> p. <hi>24, 46</hi>
+               </item>
+               <item>
+                  <hi>Lucifer.</hi> p. <hi>5</hi>
+               </item>
+               <item>The Luxurious Evill Angell. p. <hi>99</hi>
+               </item>
+               <item>Touching the Luxurious. p. <hi>108</hi>
+               </item>
+            </list>
+            <list>
+               <head>M</head>
+               <item>Magiſtrates. p. <hi>16</hi>
+               </item>
+               <item>A Marchant. p. <hi>53</hi>
+               </item>
+               <item>The Marchants Evill Angell accuſed p. <hi>52</hi>
+               </item>
+               <item>Touching certaine Marchants. p. <hi>109</hi>
+               </item>
+               <pb facs="tcp:36500:11"/>
+               <item>Miſeries.
+<list>
+                     <item>of the Infancy. p. <hi>61</hi>
+                     </item>
+                     <item>of Life in generall. p. <hi>67</hi>
+                     </item>
+                     <item>of Manly age. p. <hi>64</hi>
+                     </item>
+                     <item>of Man being decrepit. p. <hi>66</hi>
+                     </item>
+                     <item>of Old age. p. <hi>65</hi>
+                     </item>
+                     <item>of Youth. p. <hi>63</hi>
+                     </item>
+                  </list> 
+               </item>
+               <item>Money is one of the greateſt Divels. p. <hi>107</hi>
+               </item>
+            </list>
+            <list>
+               <head>N</head>
+               <item>
+                  <hi>Nero.</hi> p. <hi>41</hi>
+               </item>
+               <item>
+                  <hi>Nero,</hi> &amp; <hi>Senecas</hi> complaint againſt him. p. <hi>21</hi>
+               </item>
+               <item>
+                  <hi>Neros</hi> reply againſt <hi>Seneca.</hi> p.
+<hi>25</hi>
+               </item>
+               <item>
+                  <hi>Numa.</hi> p. <hi>41</hi>
+               </item>
+               <item>The Nuns evill Angell. p. <hi>100</hi>
+               </item>
+            </list>
+            <list>
+               <head>O</head>
+               <item>Obſtinate pernitious. p. <hi>81</hi>
+               </item>
+               <item>Againſt old people being in love. p. <hi>66</hi>
+               </item>
+               <item>Old women painted. p. <hi>79</hi>
+               </item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>
+                  <hi>Parmenio.</hi> p. <hi>20</hi>
+               </item>
+               <item>
+                  <hi>Patres patrae.</hi> p. <hi>11</hi>
+               </item>
+               <item>Pernicious obſtinate. p. <hi>81</hi>
+               </item>
+               <item>
+                  <hi>Philotas</hi> p. <hi>20</hi>
+               </item>
+               <item>Phyſitians. p. <hi>3</hi>
+               </item>
+               <pb facs="tcp:36500:12"/>
+               <item>
+                  <hi>Photinus.</hi> p. <hi>45</hi>
+               </item>
+               <item>
+                  <hi>Piſo.</hi> p. <hi>24</hi>
+               </item>
+               <item>
+                  <hi>Plantianus</hi> againſt <hi>Severus.</hi> p.
+<hi>32</hi>
+               </item>
+               <item>
+                  <hi>Pompey.</hi> p. <hi>46</hi>
+               </item>
+               <item>Poore. p. <hi>106</hi>
+               </item>
+               <item>Preſumptuous. p. <hi>59</hi>
+               </item>
+               <item>Princes Favorites. p. <hi>33</hi>
+               </item>
+               <item>Profit is a Divell. p. <hi>107</hi>
+               </item>
+               <item>Prophet <hi>Habakkuk.</hi> p. <hi>35</hi>
+               </item>
+               <item>Proſperity and its effects. p. <hi>104</hi>
+               </item>
+               <item>
+                  <hi>Ptolomeus.</hi> p. <hi>46</hi>
+               </item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>Rebels againſt their Prince. p. <hi>9</hi>
+               </item>
+               <item>A Repentant becauſe he had made his Will. p.
+<hi>69</hi>
+               </item>
+               <item>
+                  <hi>Dionyſius</hi> Reply. p. <hi>41</hi>
+               </item>
+               <item>
+                  <hi>Iulians</hi> Reply. <hi>ibid.</hi>
+               </item>
+               <item>Reporters of others ſecrets. p. <hi>110</hi>
+               </item>
+               <item>Revengefull. p. <hi>59</hi>
+               </item>
+               <item>
+                  <hi>Domitians</hi> revenge upon <hi>Suetoni<g ref="char:EOLhyphen"/>us.</hi> p.
+<hi>47</hi>
+               </item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>
+                  <hi>Sardanapalus.</hi> p. <hi>41</hi>
+               </item>
+               <item>Sciences. p. <hi>37</hi>
+               </item>
+               <item>Secret Accuſers. p. <hi>2, 6</hi>
+               </item>
+               <item>
+                  <hi>Sejanus</hi> againſt <hi>Tiberius.</hi> p.
+<hi>28</hi>
+               </item>
+               <pb facs="tcp:36500:12"/>
+               <item>Senators. p. <hi>11</hi>
+               </item>
+               <item>
+                  <hi>Seneca's</hi> complaint againſt <hi>Nero.</hi> p.
+<hi>21</hi>
+               </item>
+               <item>
+                  <hi>Plantianus</hi> againſt <hi>Severus.</hi> p.
+<hi>32</hi>
+               </item>
+               <item>
+                  <hi>Solon</hi> againſt Tyrants. p. <hi>39</hi>
+               </item>
+               <item>Spunge and its Emblem. p. <hi>21</hi>
+               </item>
+               <item>Suborner and his evill Angell. p. <hi>2, 94</hi>
+               </item>
+               <item>
+                  <hi>Suetonius</hi> his complaint. p. <hi>51</hi>
+               </item>
+            </list>
+            <list>
+               <head>T</head>
+               <item>
+                  <hi>Tarquin.</hi> p. <hi>41</hi>
+               </item>
+               <item>A Teſtator. p. <hi>69</hi>
+               </item>
+               <item>The Thiefes evill Angell. p. <hi>86</hi>
+               </item>
+               <item>
+                  <hi>Sejanus</hi> againſt <hi>Tiberius.</hi> p.
+<hi>28</hi>
+               </item>
+               <item>Tobacco and its evill Angell. p. <hi>92</hi>
+               </item>
+               <item>Trajan. p. <hi>41</hi>
+               </item>
+               <item>Tyrants. p. <hi>3, 19, 20, 39</hi>
+               </item>
+               <item>
+                  <hi>Solon</hi> againſt Tyrants. p. <hi>39</hi>
+               </item>
+            </list>
+            <list>
+               <head>V</head>
+               <item>
+                  <g ref="char:V">Ʋ</g>ſurers. p. <hi>5</hi>
+               </item>
+            </list>
+            <list>
+               <head>W</head>
+               <item>Wils, and how they ought to be made. p. <hi>72</hi>
+               </item>
+            </list>
+            <list>
+               <head>Y</head>
+               <item>Youth and its miſeries. p. <hi>63</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb facs="tcp:36500:13"/>
+               <pb n="1" facs="tcp:36500:13"/>
+               <head>HELL REFORMED.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Hough <hi>Hell</hi> bee the e<g ref="char:EOLhyphen"/>ternall Manſion of de<g ref="char:EOLhyphen"/>ſpaire and confuſion, nevertheleſſe, there hapned lately ſuch a horrible noyſe, and ſo extraordinary and dreadfull a diſorder there, that the moſt Ancient inhabitants of that place, acknowledging that they had never ſeene the like, thought that their <hi>Common-wealth</hi> was going to bee deſtroyed and overthrowne up-ſide downe. They knew not one another: the
+<hi>Divels</hi> believed they were the <pb n="2" facs="tcp:36500:14"/>
+                  <hi>Damned,</hi> and the <hi>Damned,</hi> the <hi>Devils:</hi> ſome uſurped the tor<g ref="char:EOLhyphen"/>ments belonging to others, and did runne here and there, pell mell, as if they had beene fran<g ref="char:EOLhyphen"/>ticke: to be ſhort, 'twas a gene<g ref="char:EOLhyphen"/>rall revolt, all was in diviſion and quarell. It was a good while before it could be gueſt who had ſtir'd this tempeſt: but at laſt 'twas found out,<note place="margin">Secret Ac<g ref="char:EOLhyphen"/>cuſer. Suborner.</note> that a <hi>Secret Ac<g ref="char:EOLhyphen"/>cuſer, a Suborner,</hi> and a<note n="*" place="margin">It ſignifies an aged wid<g ref="char:EOLunhyphen"/>dow which ſerves in great hou<g ref="char:EOLhyphen"/>ſes, as thoſe who are called Go<g ref="char:EOLhyphen"/>verneſſes.</note> 
+                  <hi>Doüegna</hi> had cauſed it, who had found the invention to breake looſe from their fetters. Conſider a little I pray, Reader, of what kind of ſpirit could thoſe three be, ſince they were able to aug<g ref="char:EOLhyphen"/>ment Confuſion and Trouble in <hi>Hell.</hi>
+               </p>
+               <p>
+                  <hi>Lucifer</hi> roaring like one <hi>Poſ<g ref="char:EOLhyphen"/>ſeſſed,</hi> cryed out, that Chaines, Fet<g ref="char:EOLhyphen"/>ters, and Manicles ſhould bee brought, and did runne every where, to quarter againe every one in his Denne, when he daſh't
+<pb n="3" facs="tcp:36500:14"/>againſt the <hi>Secret Accuſer,</hi> and having both ſtayed a moment, to face one another, the <hi>Secret Ac<g ref="char:EOLhyphen"/>cuſer</hi> tooke the word: My <hi>Prince,</hi> ſaid he, I give you intelligence that there are
+<hi>Slothfull Divels</hi> in your <hi>Empire,</hi> who remaine with their armes and legges a croſſe, as being lazy and ſluggiſh, unwil<g ref="char:EOLhyphen"/>ling to doe any thing: and alſo, that many of thoſe, which you have ſent in the world, doe not come backe, to give an account of their <hi>Commiſſions,</hi> although the time of them bee expired. And the <hi>Doüegna,</hi> which went kind<g ref="char:EOLhyphen"/>ling diſcord, from eare to eare, comming by chance to paſſe, that way, ſtop'd: Looke to your ſelfe, ſaid ſhe, to <hi>Lucifer,</hi> ther's a great conſpiracy to diſpoſſeſſe you of your
+<hi>Diabolicall Scepter:</hi> Here are two <hi>Tyrants</hi> who come,<note place="margin">Tyrants.</note> three <hi>Flatterers,</hi> many
+<hi>Phyſitians,</hi>
+                  <note place="margin">Flatterers. Phyſitians. Lawyers. Advocats.</note> and a great number of men of learning, as <hi>Lawyers</hi> and
+<hi>Advocates:</hi> and <pb n="4" facs="tcp:36500:15"/>further I give you notice, ſaid ſhe, in his eare, that amongſt all thoſe, there is a certaine man, who is a <hi>halfe-Hermit,</hi>
+                  <note place="margin">Halfe-Hermit, or Hypocrite.</note> which doth affirme you ſhall not want worke.</p>
+               <p>At this word of <hi>Halfe-Hermit, Lucifer</hi> loſt his colour, and remai<g ref="char:EOLhyphen"/>ning immoveable as a ſtatue, te<g ref="char:EOLhyphen"/>ſtified a great feare he had to loſe his <hi>Scepter:</hi> and having ſtood a while without ſpeech, ſtaring as if hee had beene mad: A <hi>Halfe-Hermit,</hi> doe you ſay; <hi>Phiſitians, Advocats,</hi> and <hi>Tyrants?</hi> ther's a Confection, ſo poiſonous and venomous, that onely an ounce thereof, would be able to burſt the Belly, and caſt out all the tripes of <hi>Hell.</hi> And as he was go<g ref="char:EOLhyphen"/>ing to make a review, in the ave<g ref="char:EOLhyphen"/>newes and frontiers of his
+<hi>King<g ref="char:EOLhyphen"/>dome,</hi> hee ſaw the<note n="*" place="margin">Or Buſie<g ref="char:EOLhyphen"/>body.</note> 
+                  <hi>Suborner</hi> comming, who ſeemed to be full of imployment. I needed but this encounter, ſaid hee, to portend
+<pb n="5" facs="tcp:36500:15"/>misfortune. Well, what's the matter? And then the
+<hi>Suborner,</hi> with a thouſand inventions, de<g ref="char:EOLhyphen"/>vices, falſe tales, vaine trifles, toyes and fables, told him there were many who plotted to fly from
+<hi>Hell,</hi> and others alſo who would introduce <hi>Vſurers</hi> and Hy<g ref="char:EOLhyphen"/>pocrites,<note place="margin">Vſurers. Hypocrites.</note> by meanes of which, the World tooke a familiar acceſſe with the <hi>Devils:</hi> and told him beſides many other tales, ſo full of deceits, and with ſuch Moun<g ref="char:EOLhyphen"/>tebank-like flatteries, that hee had beene dizied with them, if hee would have held him chat. <hi>Lucifer</hi> ſeeing the ſtrange tumult in his
+<hi>Dominion,</hi>
+                  <note place="margin">Lucifer.</note> and having in<g ref="char:EOLhyphen"/>telligence of the danger which threatned him, followed his de<g ref="char:EOLhyphen"/>ſigne of making a generall Re<g ref="char:EOLhyphen"/>view, and that with his Guard, and ordinary Traine.</p>
+               <p>Then, hee begins the Viſit of his lurking and ſecret Holds, Dennes and Dungeons of his Pri<g ref="char:EOLhyphen"/>ſoners <pb n="6" facs="tcp:36500:16"/>and Jailors.<note place="margin">Secret Accuſer.</note> The <hi>Secret Accuſer,</hi> kindler of diſſentions, went fore-moſt venting and blowing a certaine kinde of aire which did put the brands toge<g ref="char:EOLhyphen"/>ther and inflame them onely, without producing light; The <hi>Doüegna</hi> followed next,<note place="margin">Doüegna.</note> ſowing tares of diſcord every where. The Cunning <hi>Suborner</hi> came af<g ref="char:EOLhyphen"/>ter,<note place="margin">Suborner.</note> learing with the corner of his eye on every ſide, not turning his head, and paſſed not before any of the <hi>Ghoſts,</hi> but he made a cringe, or ſome other geſture fai<g ref="char:EOLhyphen"/>ning ſome good will. To the one he made a courteſie, he kiſſed the others hands: unto this, he ſaid, I am your ſervant; unto that, make uſe of mee. But at every word of his Complements, the poore <hi>Ghoſts</hi> cried out, Alas! but much more outragiouſly then at thoſe flaſhes of flames which tor<g ref="char:EOLhyphen"/>mented them. <hi>Oh traitor!</hi> ſaid one: <hi>Oh the fire is much more plea<g ref="char:EOLhyphen"/>ſant!</hi> 
+                  <pb n="7" facs="tcp:36500:16"/>ſaid the other. <hi>Ther's the re<g ref="char:EOLhyphen"/>doubling of our paine!</hi> ſaid this. <hi>Ther's the accumulating of our tor<g ref="char:EOLhyphen"/>ments!</hi> ſaid that.</p>
+               <p>Amongſt a great Raſcally Company, and in an eminent place, there was a Notorious <hi>Falſe witneſſe,</hi>
+                  <note place="margin">Falſe witnes</note> who as moſt ex<g ref="char:EOLhyphen"/>pert in that profeſſion, made a lecture of lying, to that Wor<g ref="char:EOLhyphen"/>ſhipfull company, which was about him: hee made them ſweare, that they had ſeene thoſe things, which were un<g ref="char:EOLhyphen"/>knowne unto them. And when that <hi>Doctor</hi> perceaved the <hi>Subor<g ref="char:EOLhyphen"/>ner:</hi> What? ſaid he, much frigh<g ref="char:EOLhyphen"/>ted, is that <hi>Devill</hi> in this <hi>Countrey:</hi> But how? I made choice to come to <hi>Hell,</hi> rather then to be in any place where I might ſee him: aſſuredly, If I had thought that he had beene to come hither, it had beene enough, not onely to have procured my ſalvation, but alſo to have gone ſome whither <pb n="8" facs="tcp:36500:17"/>where elſe I could never have entred.</p>
+               <p>Thereupon, wee heard a great noiſe of <hi>Voices, Armes, Blowes,</hi> and <hi>Cryes</hi> intermix't with <hi>Reproaches</hi> and
+<hi>Complaints.</hi> They tooke hold one of another, and did ſtrike and fulminate each other, with their owne perſons, but with ſuch cruelty, that
+'tis impoſſible to repreſent ſo furious a battle. Amongſt all thoſe, was one who ſeemed to be an <hi>Emperour,</hi> for he had a
+<hi>Crowne of Lawrell</hi> on his Head, and was invironed with
+<hi>Counſellors,</hi> who with their tongues whetted with the Text of Lawes and ſtatutes, endeavo<g ref="char:EOLhyphen"/>red to defend themſelves, from the enraged fury and choler, whereof this <hi>Emperour</hi> tormented them. <hi>Lucifer</hi> drew neere him, and with a thunder-like voice, which cauſed all <hi>Hell</hi> to tremble: Who art thou (ſaid he) <hi>Ghoſt,</hi> who art here ſo lofty and ſtately? <pb n="9" facs="tcp:36500:17"/>I am (anſwered he) Great <hi>Iulius Ceſar</hi> who in the generall ſedition of your <hi>Realme,</hi>
+                  <note place="margin">Complaint and revenge of <hi>Caeſar</hi> againſt <hi>Brutus</hi> and
+<hi>Caſſius.</hi>
+                  </note> came upon <hi>Bru<g ref="char:EOLhyphen"/>tus and Caſſius,</hi> to take Revenge of the bloody outrage, which they did, when they tooke away my life, under pretext of the <hi>liberty</hi> of the <hi>Countrey,</hi> though it was but to quench their particu<g ref="char:EOLhyphen"/>lar envy and covetouſnes.<note place="margin">Nota. Rebels againſt their Prince.</note> Thoſe infamous
+<hi>Villaines</hi> hated not the <hi>Empire;</hi> but onely the
+<hi>Emperour:</hi> they murthred me, becauſe I had eſtabliſh't the
+<hi>Monarchy:</hi> but yet they aboliſh't it not, contrariwiſe, they, ſooner and with more eaſe, made ſure the preſervation there<g ref="char:EOLhyphen"/>of: they did more harme taking away my <hi>life,</hi> then I did when I tooke away from the <hi>Senators,</hi> the Governement of the <hi>Common-wealth,</hi> ſince, I died <hi>Emperour,</hi> and my <hi>Homicides</hi> procured to them<g ref="char:EOLhyphen"/>ſelves, the Title of <hi>Traytors</hi> du<g ref="char:EOLhyphen"/>ring their life: I was adored of the people, and they puniſh't for kil<g ref="char:EOLhyphen"/>ling <pb n="10" facs="tcp:36500:18"/>of me. Curſed
+<hi>blood-ſhedders!</hi> ſaid that Great <hi>Ghoſt</hi> of <hi>Iulius Cae<g ref="char:EOLhyphen"/>ſar,</hi> turning towards them, was the Government of the
+<hi>Common-wealth</hi> better in the Hands of <hi>Senators,</hi> who could not keepe it, then under the conduct of a <hi>War<g ref="char:EOLhyphen"/>riour</hi> who purchaſſ't it by his me<g ref="char:EOLhyphen"/>rit? He that is experienced in ca<g ref="char:EOLhyphen"/>villing, and learned in forging of a <hi>Falſe accuſation,</hi> is he worthier of a <hi>Crowne,</hi> then a great <hi>Captaine,</hi> who fils his <hi>Countrey</hi> with Glory, and gives Terror to his enemies? He that knowes the lawes, is he fitter for an
+<hi>Empire,</hi> then he who maintaines them? No, No, 'tis unto this, to eſtabliſh them, and to the others to ſtudy'em. Poore <hi>Romane Common-wealth!</hi> calls thou <hi>Liberty;</hi> the obeying to the diſ<g ref="char:EOLhyphen"/>cord of Many: and Bondage; to reſpect the Power and Might onely of One? Many men full of Covetouſneſſe and Ambition ought they to be called <hi>The</hi> Fa<g ref="char:EOLhyphen"/>thers <pb n="11" facs="tcp:36500:18"/>
+                  <hi>of their</hi> Countrey,<note place="margin">Patres Pa<g ref="char:EOLhyphen"/>triae.</note> and the generoſity of One held for
+<hi>Ty<g ref="char:EOLhyphen"/>ranny?</hi> Oh how much more glo<g ref="char:EOLhyphen"/>rious had it beene for the
+<hi>Romans</hi> to have maintained a <hi>Sonne,</hi> who made <hi>Rome Miſtris</hi> of the <hi>World,</hi> then <hi>Fathers</hi> who by an infinite number of Civill warres, made her the <hi>Stepmother</hi> of her owne
+<hi>Children.</hi> Ye barbarous and cruell, conſider a little what was the Government of the <hi>Senators;</hi> ſince, the people having taſted of the
+<hi>Monarchy;</hi> had rather be com<g ref="char:EOLhyphen"/>manded by <hi>Nero, Tiberius, Caligula,</hi> and <hi>Heliogabalus,</hi> then by Lawes and
+<hi>Senators.</hi>
+               </p>
+               <p>Then <hi>Brutus,</hi> with a trembling voice, and a face covered with ſhame began to ſay, crying out: Oh <hi>Senators!</hi>
+                  <note place="margin">Senators.</note> doe you not under<g ref="char:EOLhyphen"/>ſtand <hi>Caeſar?</hi> doe you adde a new crime, to that which you have heretofore done? and ha<g ref="char:EOLhyphen"/>ving beene the <hi>Authors</hi> of the <hi>Par<g ref="char:EOLhyphen"/>ricide,</hi> doe you ſuffer him who
+<pb n="12" facs="tcp:36500:19"/>believed you, to be thus accuſed? Speake, anſwer,
+<hi>Counſellors: Caeſar</hi> ſpeakes to you as well as to me: you were ſo cunning in your per<g ref="char:EOLhyphen"/>ſwaſions, that <hi>Caſſius</hi> and I were the traitorous executioners, ta<g ref="char:EOLhyphen"/>king no regard to your unſatia<g ref="char:EOLhyphen"/>ble Ambition, and not obſerving that your Gravity, your beards and long gownes will alwaies aſſume command, draw obedi<g ref="char:EOLhyphen"/>ence unto them, and put all the danger upon the
+<hi>Prince.</hi> In effect, you do ſo exalt your Offices, and authoriſe your vanity ſo power<g ref="char:EOLhyphen"/>fully, that it is more dangerous for the
+<hi>Monarke</hi> not to obey you, then to the <hi>Subject</hi> to diſobey the
+<hi>Monarke.</hi> To what tended the execution of your perfidiouſneſſe and treaſon? Anſwer to <hi>Caeſar;</hi> for as for our parts, wee are cha<g ref="char:EOLhyphen"/>ſtiſed by our infamy and confu<g ref="char:EOLhyphen"/>ſion.</p>
+               <p>At theſe words, one of the <hi>Se<g ref="char:EOLhyphen"/>nators</hi> who was all covered with <pb n="13" facs="tcp:36500:19"/>burning coales, roſe up,<note place="margin">Iuſtification of a Senator againſt Cae<g ref="char:EOLhyphen"/>ſar.</note> &amp; with a ſevere brow, grimme behaviour, and feeble voice: <hi>Prince,</hi> ſaid he to <hi>Caeſar,</hi> whereat doſt thou com<g ref="char:EOLhyphen"/>plaine, if for thy ſake <hi>Ptolomey,</hi> who was <hi>King,</hi> killed Great <hi>Pom<g ref="char:EOLhyphen"/>pey</hi> ſo cowardly, of whom he held the <hi>Kingdome</hi> which he poſ<g ref="char:EOLhyphen"/>ſeſſed; what outrage and what treſpaſſe did the
+<hi>Connſellors</hi> com<g ref="char:EOLhyphen"/>mit to kill thee, to recover thoſe
+<hi>Kingdomes</hi> that thou hadſt ra<g ref="char:EOLhyphen"/>viſh't unto us? Is't an action of impiety to acquit thee towards <hi>Pompey?</hi> Let the <hi>Devills</hi> be the
+<hi>Iudges. Achilles,</hi>
+                  <note place="margin">Achilles.</note> who was one of that Valiant <hi>Warriours</hi> murthe<g ref="char:EOLhyphen"/>rers, and who brought to paſſe the execution thereof, by <hi>Ptolo<g ref="char:EOLhyphen"/>meys</hi> command, was but a Rob<g ref="char:EOLhyphen"/>ber who lived but with his treſ<g ref="char:EOLhyphen"/>paſſes, but thou wert farre more infamous then hee: ſeing <hi>Pompeys</hi> Head, thou weptſt, but thy teares were more traitorous, then the weapon which murthered him: <pb n="14" facs="tcp:36500:20"/>'twas a compaſſion accompanied with cruelty; thy pitty was re<g ref="char:EOLhyphen"/>venge, and thou wert more arro<g ref="char:EOLhyphen"/>gant looking on him being dead, then thou wert in the conflicts which thou hadſt againſt him during his life.</p>
+               <p>How can it be poſſible, that hypocriticall eyes could finde place in the firſt Head of the world? It cannot bee denied, but that taking away thy life we gave it againe to our <hi>Common-wealth.</hi> It was neither we, nor the people who called <hi>Nero</hi> to the <hi>Empire,</hi> but he was borne out of thy blood: thy <hi>Head</hi> being cut off, was the <hi>Hydra</hi> of the <hi>Em<g ref="char:EOLhyphen"/>pire;</hi> whence twelve more came forth.</p>
+               <p>They had begun their firſt skirmiſh againe thereupon, if
+<hi>Lucifer</hi> had not with an abſolute power, commanded unto
+<hi>Caeſar,</hi> to reenter in the paine and pu<g ref="char:EOLhyphen"/>niſhments of his preſumption, <pb n="15" facs="tcp:36500:20"/>which cauſed him to deſpiſe the advices, that were given him tou<g ref="char:EOLhyphen"/>ching his diſaſter: and to <hi>Brutus</hi> &amp; <hi>Caſſius,</hi> to be for ever the ſcandall and reproach of
+<hi>Politicke Soules.</hi> The Senators were ſent with <hi>Minos</hi> and
+<hi>Rhadamantus,</hi> to be the <hi>Devills Aſſociates.</hi>
+               </p>
+               <p>That done, there was a great rumour of Voyces heard which were ſomething remote, as if many being in choler had diſputed together: ſome moderate replies were alſo heard, mixed with re<g ref="char:EOLhyphen"/>proches and outrages, there were ſome ſo tranſported with fury, that words and blowes went together, and the more the Viſit came neere, the more the noiſe redoubled: which was the cauſe, that they ad<g ref="char:EOLhyphen"/>vanced with ſpeed, but notwith<g ref="char:EOLhyphen"/>ſtanding all the diligence which was made before the Viſit came to them, they were found already ingaged in a bloody Combat. The <hi>Perſons</hi> were of different
+<pb n="16" facs="tcp:36500:21"/>qualities, but nevertheleſſe of the beſt ranke, for there were <hi>Em<g ref="char:EOLhyphen"/>perours,</hi>
+                  <note place="margin">Emperors. Magiſtrates Generals of Armies.</note> 
+                  <hi>Magiſtrates,</hi> and <hi>Generals</hi> of Armies: The Imperious voice of the <hi>Prince of Darkneſſe,</hi> cauſes a truce of their debates, and all tur<g ref="char:EOLhyphen"/>ned towards him, teſtifying they ſuffered a cruell torture in the ſtopping of the execution of their hatred and revenge. The firſt who tooke the word, was a man remarkeable by many great wounds, who raiſing his voice: I am,<note place="margin">Clitus.</note> ſaid hee, <hi>Clitus:</hi> Hold thy peace, ſaid another, who was be<g ref="char:EOLhyphen"/>ſide him, dares thou ſpeake afore me? <hi>Prince</hi> of the <hi>Devills,</hi> ſaid he, harken unto <hi>Alexander ſonne of Iupiter,</hi>
+                  <note place="margin">Alexanders conteſtation againſt Cli<g ref="char:EOLhyphen"/>tus his Fa<g ref="char:EOLhyphen"/>vorite.</note>
+                  <hi>Lord of the Worlds, the ter<g ref="char:EOLhyphen"/>ror of Nations, the Moſt Great Em<g ref="char:EOLhyphen"/>peror. He</hi> was going to make an Iliad of Titles, Qualities, and Lordſhips after the Spaniſh fa<g ref="char:EOLhyphen"/>ſhion, if the <hi>Attorney Generall</hi> had not impoled
+<hi>Him</hi> ſilence: Speake, ſaid <hi>He,</hi> to <hi>Clitus,</hi> and he, who <pb n="17" facs="tcp:36500:21"/>had a great deſire thereof, ſaid thus:</p>
+               <p>
+                  <hi>Lucifer,</hi> I was the firſt of this <hi>Emperours</hi> Favorits, who was <hi>Lord</hi> of all the knowne Land, who bore the title of
+<hi>King</hi> of <hi>Kings,</hi> who ſaid himſelfe to be the Son of
+<hi>Iupiter Ammon,</hi> and neverthe<g ref="char:EOLhyphen"/>leſſe though hee commanded to ſo many Worlds, his naturall paſ<g ref="char:EOLhyphen"/>ſions (which may ſerve for an example to take away humane preſumption) had a great <hi>Domi<g ref="char:EOLhyphen"/>nion</hi> over him:
+<hi>Cruelty</hi> made him <hi>exceeding raſh,</hi> and uncapeable to receive the wholeſome Coun<g ref="char:EOLhyphen"/>ſels of his truſty ſervants. I was during my life, of the moſt ſin<g ref="char:EOLhyphen"/>cere amongſt thoſe; but it was not ſo much my diligent obedi<g ref="char:EOLhyphen"/>ence that procured me the name of <hi>Favorite,</hi>
+                  <note place="margin">Favorite.</note> as the opinion he had that I ſhould increaſe the number of his <hi>Flatterers:</hi> but I had too much integrity in my ſoule, to be partaker of his follies, the ſorrow <pb n="18" facs="tcp:36500:22"/>I had of his defects, imboldned me to try if I could repreſſe them gently. One day ſeeing him ſpeake with contempt, of the glorious exploits of
+<hi>Philip</hi> his <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> and blacke the ſplendor of the generoſity of a <hi>Prince,</hi> which had given him the being, and who had taken ſuch a care for his education: I ſhewed him his ingratitude, I told him of the abuſe of that imaginary Divinity whereof his <hi>Flatterers</hi> cogg'd with him, and ſpeaking with all man<g ref="char:EOLhyphen"/>ner of freedome unto him, I repreſented unto him that hee ſhould not thus wither &amp; ſnatch his
+<hi>Fathers Palmes</hi> from him. But ſee a little to what degree of fel<g ref="char:EOLhyphen"/>lony, this <hi>Prince</hi> was tranſported, ſince at the rehearſall of his <hi>Fa<g ref="char:EOLhyphen"/>thers</hi> praiſes, and his magnani<g ref="char:EOLhyphen"/>mous acts, hee did riſe with chol<g ref="char:EOLhyphen"/>ler, and ſlew me with his owne hand. After that, ſhew me where was his <hi>Divinity.</hi> When hee <pb n="19" facs="tcp:36500:22"/>gave the <hi>Kingdome of Sidonia</hi> to <hi>Abdolominus</hi> who then was a <hi>Clenſer of Iakes,</hi> 'twas not, as it was believed to honour the Vertue of that
+<hi>Captaine,</hi> but ſhamefully to take downe the Pride, and af<g ref="char:EOLhyphen"/>front the
+<hi>Great ones of Perſia,</hi> after the death of <hi>Darius.</hi> And having found him here, I have asked him, in what place <hi>Iupiter</hi> his
+<hi>Fa<g ref="char:EOLhyphen"/>ther</hi> had forſaken him, and what offence hee had committed to<g ref="char:EOLhyphen"/>wards him to caſt him into <hi>Hell,</hi> and if he was not diſabuſed from his <hi>Flatterers,</hi> who adored and offered unto him incenſe, making him believe, that he was <hi>Sonne</hi> to the Greateſt of the <hi>Gods,</hi> and that in a direct line, he was the onely heire of <hi>Thunder,</hi> and of the <hi>Ce<g ref="char:EOLhyphen"/>leſtiall Throne</hi> of <hi>Iupiter:</hi> 'twas therefore that we were fallen to<g ref="char:EOLhyphen"/>gether by the eares, when you arrived. But leaving aſide theſe invectives judge I pray you, if it was not the action of a
+<hi>Tyrant,</hi> to <pb n="20" facs="tcp:36500:23"/>make it a treſpaſſe worthy of death, the recitall of his <hi>Fathers</hi> vertues &amp; magnanimities? What barbarous cruelty uſed hee not towards <hi>Parmenio,</hi>
+                  <note place="margin">Parmenio. Philotas. Caliſthenes.</note> 
+                  <hi>Philotas, His Sonne,</hi> and <hi>Caliſthenes</hi> who was alſo one of his
+<hi>Favorits,</hi> yea to<g ref="char:EOLhyphen"/>wards <hi>Aminta</hi> his Coſen,<note place="margin">Aminta.</note> his <hi>Mother</hi> in Law, and his
+<hi>Brother?</hi> Oh <hi>Lucifer!</hi> you ſee that ther's no neceſſity, to be Good, or Wic<g ref="char:EOLhyphen"/>ked, to make a criminall, but only to bee <hi>Favorite</hi> to a <hi>Tyrant,</hi> and that it is as in the courſe of life, wherein every one dyes becauſe he is Mortall, and not by reaſon of the ſickneſſe, for it ſerues, but as a pretext to Death.</p>
+               <p>Then now thou knoweſt, ſaid <hi>Sathan,</hi>
+                  <note place="margin">Tyrants.</note> that <hi>Tyrants</hi> know how to give the foile, to cauſe thoſe whom they pleaſe to ſtumble and fall downe: for they hate all, the vertuous; becauſe, he is not wicked; and the wicked, for very ſpite that he is not worſe. What <pb n="21" facs="tcp:36500:23"/>
+                  <hi>Favorits</hi> have they made, which they have not throwen downe headlong? Doeſt not thou re<g ref="char:EOLhyphen"/>member the embleme of the <hi>Spunge?</hi> Now learne that all
+<hi>Favo<g ref="char:EOLhyphen"/>rits</hi> are the <hi>Princes Spunges,</hi>
+                  <note place="margin">Favorits.</note> they let them drinke in and ſuck all their full, and afterwards they cruſh them, and get out the ſub<g ref="char:EOLhyphen"/>ſtance for their profit.</p>
+               <p>As he ended this laſt word, there was a <hi>Lamentable outcry of</hi> many people heard, and at the ſame time, <hi>a Grave Old man,</hi> of as pale a colour as if he had had no blood in his veines, who drew neere unto
+<hi>Lucifer:</hi> It ſeemes, ſaid he, that the <hi>Similitude</hi> of the
+<hi>Spunge</hi> whereof you ſpeake, is made for me, by reaſon of the great treaſures which I have poſ<g ref="char:EOLhyphen"/>ſeſſed. I am that renouned
+<hi>Seneca,</hi>
+                  <note place="margin">A Complaint of Seneca, againſt Nero</note>
+                  <hi>a Spaniard by Nation, Neros Tutor and Favorite.</hi> He exerciſed the exceſſe of his liberalities upon me: he gave me without asking;
+<pb n="22" facs="tcp:36500:24"/>I was never Covetous, but only Obedient. 'Tis ordinarily a
+<hi>Prin<g ref="char:EOLhyphen"/>ces</hi> delight, to ſhew himſelfe libe<g ref="char:EOLhyphen"/>rall towards a
+<hi>Favorite,</hi> and to heape honors and goods upon him, and whoſoever would re<g ref="char:EOLhyphen"/>fuſe, and not accept them, untill he had deſerved them, he ſhould offend his <hi>Prince,</hi> and it would ſeeme that the
+<hi>Subject,</hi> would rather have his Modeſty and Temperance to be admired, then the Magnanimity of the <hi>Maſter</hi> who gives. Inſomuch that the moſt devout hommage, that a <hi>Vaſſall</hi> can doe to his
+<hi>Lord,</hi> 'tis to contribute, as much as in him lyes, to the Glory, and ſplendor of his <hi>Vertue. Nero</hi> gave me all what could bee given by ſuch a <hi>Prince</hi> as hee was; But notwith<g ref="char:EOLhyphen"/>ſtanding all the Modeſty and diſ<g ref="char:EOLhyphen"/>creet carriage that I could uſe in the enjoying of ſuch Gratificati<g ref="char:EOLhyphen"/>ons: Yet the <hi>Foſterers of Envy</hi> did murmure, and invented falſe Ac<g ref="char:EOLhyphen"/>cuſations <pb n="23" facs="tcp:36500:24"/>and detractions againſt me, publiſhing that I perſwaded the contempt of riches to others, to the end, that the hunger of my unſatiable Covetouſneſſe, ſhould have fewer Competitors: And ſeeing that by little and little the Vigour of my good reputation and proſperity did diminiſh, I tooke a reſolution to put my
+<hi>Soule</hi> out of trouble, and to be no more the Object of the hatred of ſo many. I went to <hi>Nero,</hi> and reſto<g ref="char:EOLhyphen"/>red unto him, all what hee had given me, with all the duty and reſpect that I could teſtifie. I had ſuch a paſſion to love and ſerve him, that the threats of his (to be redoubted) humor whereat ſome would terrifie me; never tooke away my boldneſſe to exhort him to vertue; nor his unruly acti<g ref="char:EOLhyphen"/>ons, hindred me not from making thoſe remonſtrances unto him to which my loyalty obliged mee: And when hee cauſed murthers <pb n="24" facs="tcp:36500:25"/>and homicides to be committed, 'twas then, that with more vehe<g ref="char:EOLhyphen"/>mency, I repreſented unto him the wounds which he made to his Conſcience. He cauſed his <hi>Mother</hi> to be ſlaine: he fired <hi>Rome,</hi> and reduced it to aſhes, hee did depo<g ref="char:EOLhyphen"/>pulate the whole <hi>Empire</hi> of Ho<g ref="char:EOLhyphen"/>neſt People,<note place="margin">Piſo.</note> whence <hi>Piſo's</hi> con<g ref="char:EOLhyphen"/>ſpiracy followed: which was very well propounded, but very ill executed: for, having beene diſcovered, thoſe who were to execute it, were put to Death. Thoſe are accidents of the <hi>Divine Providence,</hi> thus to preſerve the life of a
+<hi>Prince,</hi> from thoſe abo<g ref="char:EOLhyphen"/>minable accidents, to the end they may know themſelves and amend their lives: But what? <hi>Nero</hi> could prevent this conſpiracy, and nevertheleſſe hee amended not his defects, nor left his vices: at the ſame time, hee tooke away <hi>Lucanus</hi> his life,<note place="margin">Lucanus.</note> becauſe hee was a better <hi>Poet</hi> then he. And if he <pb n="25" facs="tcp:36500:25"/>gave mee the choice, of what kinde of <hi>Death</hi> I would die,
+'twas not by any feeling of Pitty, but rather of Cruelty: he intended to give mee many Deaths in lieu of one, for the paine of death was reiterated during the time of the choyce which I was to make; beſides, he propounded to him<g ref="char:EOLhyphen"/>ſelfe, that ſuffering effectually that whereof I was to make choice, ſo alſo I ſhould ſuffer all the reſt in the Terror and Feare which made mee to refuſe them: I put my ſelfe in a <hi>Bath,</hi> and cau<g ref="char:EOLhyphen"/>ſing my Veines to be cut, I made expedition of my owne diſpat<g ref="char:EOLhyphen"/>ches my ſelfe, to come hither with ſpeed; where, to augment my miſ-fortunes, I have found this infamous <hi>Prince,</hi> exerciſing yet his Cruelties, and teaching unto the <hi>Devils</hi> new torments a<g ref="char:EOLhyphen"/>againſt the Poore
+<hi>Ghoſts.</hi>
+               </p>
+               <p>Then <hi>Nero</hi> advances,<note place="margin">Nero's re<g ref="char:EOLhyphen"/>plies againſt Seneca.</note> and with a ſterne Viſage and ſhrill Voice,
+<pb n="26" facs="tcp:36500:26"/>It is needfull, ſaid he, that the <hi>Favorit</hi> and
+<hi>Tutor,</hi> ſhould have more learning then the <hi>Prince,</hi> but alſo it is requiſite, that he ſhould governe himſelfe with re<g ref="char:EOLhyphen"/>ſpect; for to become preſumptu<g ref="char:EOLhyphen"/>ous, becauſe he hath ſome ad<g ref="char:EOLhyphen"/>vantage of doctrine above him, it is a Crime; and therefore the <hi>Subject</hi> that will make it appeare, that he is abler then his <hi>Sove<g ref="char:EOLhyphen"/>raigne,</hi> and that he knowes more then he, ought to be puniſhed as being Preſumptuous and Inſo<g ref="char:EOLhyphen"/>lent.
+<hi>Seneca,</hi> whilſt thou didſt teach me, I preferred thee to all thoſe which were about me, and the eſteeme that I made of thy Wiſedome was one of the prin<g ref="char:EOLhyphen"/>cipall praiſes of my <hi>Raigne:</hi> But aſſoone as thou wouldſt have all men to know, that thou wert more expert and better able then I, (a thing which thou ſhouldſt have diſſembled more Iudici<g ref="char:EOLhyphen"/>ally,) thou madeſt me a Generall <pb n="27" facs="tcp:36500:26"/>ſcandall through-out all the World: and from that time, my hatred and Indignation began to kindle againſt thee: That was ſo diſpleaſing unto me, that I had rather a thouſand times, ſuffer the torments which are here: then to ſee a <hi>Favorit</hi> beſide me who ſhould make <hi>Glory</hi> of my ſhame, and get
+<hi>Honour,</hi> out of my <hi>Contempt.</hi> I call to witneſſe all theſe <hi>Princes</hi> who are heere: Speake; <hi>Kings,</hi> draw neere: Say, have you ſuffered your <hi>Favorits</hi> to become ſo preſumptuous, as to make it appeare that the capa<g ref="char:EOLhyphen"/>city of their underſtanding did exceed yours, without correcting them for their Temerity? No, no, anſwered they all with one voyce, it ſhall never be indured, as long as the World will be a World; our <hi>Succeſſors</hi> have promiſed unto us, to remedy that diſorder. It is true, that as long as the <hi>Favorite</hi> is wiſe and
+<pb n="28" facs="tcp:36500:27"/>skilfull, and can perſwade unto the people, that the
+<hi>Prince</hi> doth poſſeſſe the Talent of governing diſcreetly, and that he workes by himſelfe, he ought to be Main<g ref="char:EOLhyphen"/>tained, Honoured and Eſteemed by his <hi>Maſter:</hi> But at that inſtant, that Vanity, will lead him, to cauſe the contrary to be knowne; Farewell all Privacy, he deſerves to be degraded.</p>
+               <p>That Decree hath no relation to me,<note place="margin">Complaint of Sejanus againſt Tiberius.</note> then ſaid <hi>Sejanus,</hi> though I had a better Wit then <hi>Tiberius,</hi> for I carried my ſelfe with ſo much Induſtry, that all was pub<g ref="char:EOLhyphen"/>liſh'd as done and ordained by his owne Judgement. Therefore he acknowledged to be ſo much obliged, to my good ſervices, that he made me <hi>Peere</hi> and <hi>Co-partner</hi> of his
+<hi>Empire,</hi> and erected Statues, to which he granted Sacred Pri<g ref="char:EOLhyphen"/>viledges. My <hi>Name</hi> was the ac<g ref="char:EOLhyphen"/>clamation of the Roman People, my
+<hi>Felicity,</hi> the Mirth and Joy of <pb n="29" facs="tcp:36500:27"/>the
+<hi>Empire,</hi> and all Nations made common Vowes and Prayers for the preſervation of my Health. But when I believed, that I was the
+<hi>Favorit</hi> who had the greateſt ſhare in his <hi>Lords</hi> affections, <hi>Tibe<g ref="char:EOLhyphen"/>rius</hi> cauſed me to be taken, and to be torne in pieces, and for<g ref="char:EOLhyphen"/>ſooke me to the Rage and Fury of the mutineer'd people, who held it for an Honour, to carry away a piece of my fleſh, upon the point of their Javelins, they dragd me along the ſtreets: Yet their incom parable Cruelty went beyond the Bounds of my <hi>Sepul<g ref="char:EOLhyphen"/>cher:</hi> it went to my
+<hi>Children,</hi> and cauſed them to die ignomi<g ref="char:EOLhyphen"/>niouſly; and a
+<hi>Daughter</hi> that I had which by reaſon of the priviledge of
+<hi>Virginity</hi> could not bee put to death, by <hi>Iuſtice,</hi> was barbarouſly condemned firſt to be raviſhed by the <hi>Hang-man,</hi> (Oh prodigious!) and then to be beheaded, as it was executed. It
+<pb n="30" facs="tcp:36500:28"/>is true that my ruine began the very day that I would prevent the <hi>Deſtinies,</hi> oppoſe my ſelfe to the <hi>Power of Fortune,</hi> and deſpiſe <hi>Heavenly Providence.</hi> Then, more
+<hi>Sacrilegious</hi> then <hi>Wiſe,</hi> I endeavo<g ref="char:EOLhyphen"/>red to fortifie my ſelfe, againſt the craft of men, cauſing ſome to be put to death, and others ba<g ref="char:EOLhyphen"/>niſhed, Inſomuch that I cauſed <hi>Heaven</hi> to declare it ſelfe my <hi>Enemy.</hi> Not contented with that, I tooke acceſſe with the Wicked, I made uſe of the <hi>Phyſitian</hi> for Poiſons, of the Bloody for Re<g ref="char:EOLhyphen"/>venge, of <hi>Falſe Witneſſes,</hi> of <hi>
+                     <g ref="char:V">Ʋ</g>njuſt</hi> and <hi>Corrupted Magiſtrates.</hi> But nevertheleſſe, I might ſay, that thoſe outrages, were not com<g ref="char:EOLhyphen"/>mitted according to my owne will, but by vertue of the neceſſity wherein I was raiſed, and as I propounded unto my ſelfe, that in my fall and undoing, I ſhould be forſaken of the Vertuous, and and alſo of the Wicked, I made <pb n="31" facs="tcp:36500:28"/>uſe of theſe as of people fit for my ends, and I fled from the righteous as from my accuſers: Nevertheleſſe even ſuch as I was, if <hi>Tiberius</hi> hath exerciſed tyran<g ref="char:EOLhyphen"/>ny, it hath not beene through my counſels, I never induced him to it, much leſſe (approving of him, as a <hi>Flatterer</hi>) I have left the effects much more cruell, then the condemned have done by the torments of impriſonment and tortures: and if I am accuſed to have perſuaded him to cruelty, to alienate from him the affecti<g ref="char:EOLhyphen"/>ons of the people, and raiſe my fortune, who ſhall be named for the author, of that which he vſed towards me? O <hi>Lucifer,</hi> you muſt know that <hi>Tyrants</hi> do diſcharge themſelves of the faults which they commit, upon thoſe which they have imployed in ſuch acti<g ref="char:EOLhyphen"/>ons, for they do expoſe and ſacri<g ref="char:EOLhyphen"/>fice us very freely to death, for to ſatisfie the peoples outrage <pb n="32" facs="tcp:36500:29"/>when they murmure againſt them, and by that meanes wee ſuffer the paine for their faults. The Hiſtories which recite our diſgraces, make alwayes vſe of theſe words: Ther's the ordinary end of thoſe who approach too neere the
+<hi>Princes</hi> favours: inſo<g ref="char:EOLhyphen"/>much that in every <hi>Chronicle,</hi> our miſfortune ſerves as an adver<g ref="char:EOLhyphen"/>tiſement for an ill paſſage. The exalting of a <hi>Favorit</hi> teſtifies alſo the greatneſſe of the
+<hi>Prince</hi> which doth it; to maintaine him neere him, and in his Honours, It is ſo much the more to make his good Judgement to appeare in the Choice which hee hath made: contrarywiſe when hee deſtroyes him, 'tis to ſhew the lightneſſe and inconſtancy of his Spirit, and to ſide with his Adverſaries.</p>
+               <p>At the ſame time <hi>Plantianus,</hi>
+                  <note place="margin">A Complaint of Plantianus Severus his Favorit.</note> 
+                  <hi>Severus</hi> his
+<hi>Favorit</hi> approached, who<g ref="char:cmbAbbrStroke">̄</g> he had cauſed to be throwne out of a Window to bee a ſpe<g ref="char:EOLhyphen"/>ctacle <pb n="33" facs="tcp:36500:29"/>unto the people. During my life, ſaid hee, I might well have beene compared to a <hi>Fiery Racket,</hi> which in an inſtant was elevated in the aire, faire, flaming and cracking: Whiles I held the firſt ranke, I ſpark led like a Starre in the eyes of the World, but that laſted very little, I fell preſently to the ground, and was converted into ſmoake and aſhes.</p>
+               <p>After this many other <hi>Favorits</hi> appeared in a Troope,<note place="margin">Princes Fa<g ref="char:EOLhyphen"/>vorites.</note> namely <hi>Fauſtus Favorite</hi> unto <hi>Pirrhus King</hi> of the <hi>Epirotes; Pyrenus</hi> and
+<hi>Cle<g ref="char:EOLhyphen"/>ander, Commodus</hi> his <hi>Favorites; Cincinatus, Favorite</hi> unto
+<hi>Britilus, Emperour; Rusfus,</hi> unto <hi>Domitian,</hi> and
+<hi>Amproniſius,</hi> that of <hi>Adrian,</hi> who were all attentive, to the trembling and complayning voice of <hi>Belizarius, Iuſlinians Favorite,</hi> who being blind as he was, had already ſtrooke twice with his ſtaffe, and ſhak'd his head, ſhewing that he demanded <pb n="34" facs="tcp:36500:30"/>audience: and when ſilence was made, he ſaid thus:</p>
+               <p>It is much more ſhame for you,<note place="margin">Complaint of Bellizarius Iuſtinians Favorite.</note> ye <hi>Princes;</hi> to be the executio<g ref="char:EOLhyphen"/>ners of thoſe whom you have promoted, then unto us
+<hi>Favorites</hi> to undergoe the cruell effects of your inconſtancy. For my part, I ſerved a <hi>Wiſe Prince,</hi> and Juſt, who taught the meanes to ad<g ref="char:EOLhyphen"/>miniſter Juſtice: and though he was bound to my Valour, for the Greatneſſe of his <hi>Empire,</hi> his Vi<g ref="char:EOLhyphen"/>ctories and Triumphs; he cauſed my eyes to be pluck'd out, and left me forſaken in an extreame miſery, even to be reduced to beg my bread in the corner of the Streets. And this name of
+<hi>Beli<g ref="char:EOLhyphen"/>zarius,</hi> which was wont to be proferred for the animating of the Squadrons, and to fright the Enemies; this name, I ſay, where<g ref="char:EOLhyphen"/>of the ſound and power was worth an <hi>Army,</hi> hath ſeene him<g ref="char:EOLhyphen"/>ſelfe encamp'd upon the pave<g ref="char:EOLhyphen"/>ment, <pb n="35" facs="tcp:36500:30"/>and from doore to doore begging almes, not knowing of whom.</p>
+               <p>The <hi>Favor</hi> of <hi>Princes</hi> is like
+<hi>Quick-ſilver,</hi> it cannot ſtay, 'tis in a perpetuall motion, it flies away betwixt your fingers: if you will force it, 'twill convert into vapor: when one would make it more ſublime, it becomes more vene<g ref="char:EOLhyphen"/>mous, if you handle it, it pene<g ref="char:EOLhyphen"/>trates to the very bones: he that communicates often with it, and who workes to get it, remaines all his life trembling untill death.</p>
+               <p>As he ended theſe words, a great cry was heard of fright<g ref="char:EOLhyphen"/>full
+<hi>Groanes,</hi> and of <hi>Helas,</hi> pro<g ref="char:EOLhyphen"/>nounced by all thoſe who had any feeling of the <hi>Quick-ſilver</hi> of Favour, which began all to trem<g ref="char:EOLhyphen"/>ble as Aſpin leaves, and at that inſtant a <hi>Spirit</hi> ſpake theſe words of the <hi>Prophet Habakkuk,</hi>
+                  <note place="margin">Prophet Habakkuk.</note> ſpeaking to thoſe <hi>Princes</hi> who are negli<g ref="char:EOLhyphen"/>gent of their duty.</p>
+               <pb n="36" facs="tcp:36500:31"/>
+               <p>
+                  <hi>Wherefore lookeſt thou upon them that deale treacherouſly,</hi>
+                  <note place="margin">Cap. <hi>1.</hi> v. <hi>13.</hi>
+                  </note>
+                  <hi>and holdeſt thy tongue when the wicked devou<g ref="char:EOLhyphen"/>reth the man that is more righteous then h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>?</hi>
+               </p>
+               <p>
+                  <hi>And makeſt men as the fiſhes of the Sea,</hi>
+                  <note place="margin">verſe
+<hi>14.</hi>
+                  </note> 
+                  <hi>as the creeping things that have no ruler over them.</hi>
+               </p>
+               <p>
+                  <hi>Therefore the Law is ſlacked,</hi>
+                  <note place="margin">verſe <hi>4.</hi>
+                  </note> 
+                  <hi>and judgement doth never goe forth: for the wicked doth compaſſe about the righteous: therefore wrong judge<g ref="char:EOLhyphen"/>ment proceedeth.</hi>
+               </p>
+               <p>
+                  <hi>For the ſtone ſhall cry out of the wall,</hi>
+                  <note place="margin">Cap.
+<hi>2.</hi> v. <hi>11.</hi>
+                  </note> 
+                  <hi>and the beame out of the timber ſhall anſwer it.</hi>
+               </p>
+               <p>
+                  <hi>Whereby is meant, that vnſenſible things ſhal reproach you; I have made you a recitall of the</hi> Prophets <hi>threats,</hi> (<hi>ſaid the</hi> Spirit <hi>continew<g ref="char:EOLhyphen"/>ing</hi>) <hi>to make you conſider that</hi> God <hi>makes not ſo much eſteeme of you</hi> Great ones,
+<hi>that he puts alwayes the chaſtiſements of your errors in the hands of the other</hi> Princes <hi>and</hi> Potentates <hi>of the earth, or to prodi<g ref="char:EOLhyphen"/>gious <pb n="37" facs="tcp:36500:31"/>ſucceſſes, or to forces exceeding yours; but to the moſt abject, vile, baſe; and to be deſpiſed. Admire a little, of what</hi> Miniſters God <hi>makes vſe of, to revenge your outrages, va<g ref="char:EOLhyphen"/>nities, and pride, he cauſes vnſenſible ſtones to ſpeake, walls and rotten wood from betwixt the joints of the edifices. When</hi> God <hi>will, worm<g ref="char:EOLhyphen"/>eaten wood, the leaſt inſects, little wormes, flies, and lice, are the</hi> Offi<g ref="char:EOLhyphen"/>cers <hi>of his dreadfull Iuſtice.</hi>
+               </p>
+               <p>He had hardly ended his laſt word, when they were faine to run, to know whence proceeded another great noiſe of <hi>Cryes</hi> and
+<hi>Confuſed Voices,</hi> which beſotted all the <hi>Auditors:</hi> and as they came neere, they ſaw that 'twas the <hi>Armes</hi> and <hi>Sciences</hi> who fought together, There were perſons of eminent quality, and neverthe<g ref="char:EOLhyphen"/>leſſe of different conditions and divers ages. Some ſtrucke with Swords, others defended them<g ref="char:EOLhyphen"/>ſelves with great Bookes, where<g ref="char:EOLhyphen"/>of
+<pb n="38" facs="tcp:36500:32"/>they made uſe, ſometimes of Offenſive, and ſometimes of De<g ref="char:EOLhyphen"/>fenſive Armes: that's to ſay; put<g ref="char:EOLhyphen"/>ting of them before their breſt in ſtead of Targets or Plaſtrons, then ſtriking with them furious blowes upon their adverſaries eares. Soft, Soft (ſaid one of
+<hi>Luci<g ref="char:EOLhyphen"/>fers followers</hi>) beare reſpect to the <hi>Prince of Darkneſſe.</hi> Preſently the blowes were ſuſpended on either ſide: and then one of the Com<g ref="char:EOLhyphen"/>batants began to ſay: If you knew the reaſon wee have to avenge ourſelves, it may be you ſhould be of our ſide. At that inſtant appeared <hi>Domitianus, Commodus, Caracalla, Phalaris, Heliogabalus, Alcetus, Andronicus, Buſiris,</hi> and many other Great Perſonages.
+<hi>Lucifer</hi> ſeeing ſuch a <hi>Majeſticall</hi> Company, diſpoſed himſelfe to give them all manner of ſatiſ<g ref="char:EOLhyphen"/>faction which they could deſire, when a <hi>Grave Old man</hi> advanced himſelfe, followed by many
+<pb n="39" facs="tcp:36500:32"/>others, who having beene miſ<g ref="char:EOLhyphen"/>uſed by thoſe
+<hi>Princes</hi> and having had the worſt, had all their faces bloody.</p>
+               <p>I am <hi>Solon,</hi> ſaid that <hi>Old man,</hi>
+                  <note place="margin">Solons Complaint against Tyrants.</note> and thoſe are the ſeven <hi>Wiſe men of Greece,</hi> ſo much renowned throughout all the World. That ſame which the <hi>Tyrant Nicocreon</hi> beats, (as you ſee,) in a morter, is the <hi>Philoſopher Anaxarchus:</hi> That little crooked is that excellent wit which the world knew hereto<g ref="char:EOLhyphen"/>fore under the name of
+<hi>Ariſtotle:</hi> that flat noſe, is the wiſe <hi>Socrates;</hi> that other <hi>Old man</hi> is the <hi>Divine Plato:</hi> and thoſe others hid in a corner, are many other men of our profeſſion, who have made the ſame workes, of which theſe <hi>Princes</hi> being offended, take a cruell vengeance on us. And to informe you of the buſineſſe, you muſt know
+<hi>(Prince Lucifer)</hi> that we are the compoſers of <hi>Politicke</hi> Bookes, and Lawes of the good <pb n="40" facs="tcp:36500:33"/>Government of <hi>States</hi> and <hi>Em<g ref="char:EOLhyphen"/>pires:</hi> whereby we have taught unto <hi>Princes</hi> the Method which they ought to obſerve to rule their people and to be beloved of them: how <hi>Iuſtice</hi> ought to be held in reverence and adminiſtred, Generous <hi>Warriers</hi> recompenced, uſe to be made of <hi>Learned Men,</hi> to baniſh Flatterers, to have <hi>Magi<g ref="char:EOLhyphen"/>ſtrates</hi> Prudent and full of Inte<g ref="char:EOLhyphen"/>grity; correct and reward accor<g ref="char:EOLhyphen"/>ding to the occurences, that they were <hi>Ioves Stewards</hi> on earth, and that they repreſented <hi>The Gods.</hi> Ther's the onely object of the outrages, which they doe unto us, though wee name them not, and had no deſigne to offend the<g ref="char:cmbAbbrStroke">̄</g>, but rather to be as a Guide unto them in the way of <hi>Vertue</hi> and of <hi>Heaven.</hi> Oh wicked <hi>Princes!</hi> ſaid he turning towards them: thoſe glorious
+<hi>Kings</hi> and <hi>Emperors,</hi> upon whom wee tooke the mo<g ref="char:EOLhyphen"/>dell, to forme our Lawes and <pb n="41" facs="tcp:36500:33"/>Inſtructions, have now a farre better habitation then you.<note place="margin">Numa. Tarquin. Auguſtus. Sardinapa<g ref="char:EOLhyphen"/>pulus. Trajan. Nero. Dionyſius his Reply.</note> 
+                  <hi>Numa</hi> is a ſparckling ſtarre, and <hi>Tarquin</hi> a ſmoaking Fire-brand: &amp;
+<hi>Augu<g ref="char:EOLhyphen"/>ſtus</hi> hath left a farre more Glori<g ref="char:EOLhyphen"/>ous memory, then
+<hi>Sardanapalus;</hi> and <hi>Traian,</hi> then <hi>Nero.</hi>
+               </p>
+               <p>Then <hi>Dionyſius</hi> the <hi>Tyrant,</hi> ac<g ref="char:EOLhyphen"/>companied with many of the ſame profeſſion, began to cry out: thou lyeſt, infamous
+<hi>Philoſopher,</hi> 'tis quite contrary that you Law<g ref="char:EOLhyphen"/>givers have done us any ſervice, you are rather the cauſe of our reproaches, of our diſhonour, and of the cruell deaths whereby we have beene cut off: having lyed in your writings, ſpoken of things whereof you had no knowledge, and given precepts, of thoſe of which you were ignorant, we have beene perſecuted during our life, and defamed after death.</p>
+               <p>How, my Prince (ſaid <hi>Iulian</hi> the
+<hi>Apoſtata,</hi>
+                  <note place="margin">Iulians Re<g ref="char:EOLhyphen"/>ply.</note> looking upon Sa<g ref="char:EOLhyphen"/>than) 'tis very likely, that theſe <pb n="42" facs="tcp:36500:34"/>Schoole-maſters of baſe extracti<g ref="char:EOLhyphen"/>on, who are deſpiſed and mocked of the world, by reaſon of their ſluttiſh and ſlovenly kinde of li<g ref="char:EOLhyphen"/>ving, cloathes, and grim lookes, who make a merit of a beggerly life, and a conſtancy of the ſcorne of others: who have neither Theory nor Practicke of thoſe Sciences they treat of, not know<g ref="char:EOLhyphen"/>ing what Dominion and Raigne is; yet buſie themſelves to pre<g ref="char:EOLhyphen"/>ſcribe Precepts unto <hi>Kings,</hi> and ſhew them the waies how to go<g ref="char:EOLhyphen"/>verne their <hi>Kingdomes</hi> according to their fancy and fantaſticall opinions, which they believe to be the Props of
+<hi>Crownes.</hi>
+               </p>
+               <p>To your judgement, could all <hi>Hell</hi> give a greater torment and a more odious mortification unto wordly greatneſſe, then to oblige it, to ſuffer, that one of thoſe baſe fellowes, ſcratching his head, and with a face covered with a buſhy Beard, his eyes ſunke as farre as <pb n="43" facs="tcp:36500:34"/>the backe-ſide of his ſcull, with an unpleaſant kinde of ſpeech, ſhall ſay, that the <hi>Prince</hi> which takes care onely for himſelfe, is a Tyrant, and that he who onely thinkes to be the preſervation of his people, is a true <hi>King?</hi> Oh! ignorant, how raſh and unadvi<g ref="char:EOLhyphen"/>ſed art thou? draw neere, a <hi>King</hi> who cares onely for the good of others, who ſhall have care of his? What? thou wouldſt have us to deſtroy our ſelves, and that wee ſhould doe upon our owne perſons, all the harme which we could receive of our enemies? <hi>Raſcals,</hi> write night and day as much as you pleaſe, but doe not goe about to ſpeake undeſired, of a profeſſion which you under<g ref="char:EOLhyphen"/>ſtand not. How could wee be
+<hi>Soveraigne Lords,</hi> unleſſe we were Maſters and Poſſeſſors of the goods of others, &amp; be abſolute if we ſubmitted unto your Advices and Counſells, yee who are but <pb n="44" facs="tcp:36500:35"/>our Vaſſalls? Can wee have a ſu<g ref="char:EOLhyphen"/>preme power, and cannot re<g ref="char:EOLhyphen"/>venge our offences, ſatisfie unto our Covetouſneſſe, nor content our depraved ſpirits? and having a minde to fulfill our paſſions, would it be fit to make choice of Vertuous people to repreſſe the Wicked? No, No, wee have more need of thoſe who are agreeing unto our Wills, then of the others: and to ſpeake the truth; you are very much void of common ſence, to thinke that we can recompence, the Merit and Vertue of honeſt people, ſince they are our owne Accuſers. 'Tis much more profitable to draw unto us the Deceavers, Perfidious and Wicked, by meanes of
+<hi>Digni<g ref="char:EOLhyphen"/>ties,</hi> and <hi>Conſulats;</hi> for our Sanctu<g ref="char:EOLhyphen"/>ary is in their Outrages, our qua<g ref="char:EOLhyphen"/>lity in their imitation; and our excuſes, in their extravagances. And why then, old <hi>Bocus Bar<g ref="char:EOLhyphen"/>bus,</hi> do you not write the truth? <pb n="45" facs="tcp:36500:35"/>Learne, learne that Butchers fat<g ref="char:EOLhyphen"/>ten their ſheep for nought elſe but to kill them, and that the Sur<g ref="char:EOLhyphen"/>geon do's not ſtop the veines, when he would let blood.</p>
+               <p>Remaine then henceforth in a perpetuall ſilence, and let this
+<hi>Orator</hi> ſpeake,<note place="margin">Photinus.</note> who teacheth us a manner of Government much more favourable then yours: Come forth
+<hi>Photinus,</hi> and cauſe your ſelfe to bee underſtood. Thereupon appeared a certaine Impudent fellow, of an ill favo<g ref="char:EOLhyphen"/>red countenance, who ſeemed onely to be fit, to perſwade wic<g ref="char:EOLhyphen"/>kedneſſe, who opening his foule mouth, and with a fearefull hou<g ref="char:EOLhyphen"/>ling, vomited forth the venome of theſe Words.</p>
+            </div>
+            <div type="part">
+               <pb n="46" facs="tcp:36500:36"/>
+               <head>Wicked perſwaſions from one of <hi>Ptolomy</hi> his Cour<g ref="char:EOLhyphen"/>tiers,<note place="margin">Ptolomaeus.</note> to induce him to cauſe
+<hi>Pompey</hi> to be ſlaine:<note place="margin">Pompey.</note> taken out of
+<hi>Lucan,</hi>
+                  <note place="margin">Lucan.</note> in the 8 Booke of his
+<hi>Pharſalia.</hi>
+               </head>
+               <p>
+                  <hi>Many Great</hi> Princes <hi>as thou art,</hi> Ptolomey,
+<hi>have often repented, to have beene too religious in the obſervation of Iuſtice and equity The afflicted, which they have aſſiſted, and the ſeruple which they have made to violate faith, have often hindred them from extending the limit of their Empire, and increa<g ref="char:EOLhyphen"/>ſing the ſplendor of their Crownes. No, No,</hi> Ptolomy, <hi>you muſt reſolve. 'Tis at this time, that you muſt yield unto the Deſtiny, and ſticke to the will of the Gods, forſaking boldly, thoſe whom they pleaſe to perſecute,
+<pb n="47" facs="tcp:36500:36"/>and diſpoſe thy ſelfe to take party with thoſe whom they favour. Ther's aſmuch diſtance betwixt Heaven and Earth, and difference betwixt fire and water, as betweene the vſe<g ref="char:EOLhyphen"/>full and the equitable. Inſomuch, that when a</hi> Prince <hi>will keepe himſelfe within the bounds of honeſty and ci<g ref="char:EOLhyphen"/>vility, he conſpires againſt himſelfe; he deſtroyes the greatneſſe of his Em<g ref="char:EOLhyphen"/>pire, and diſperſes his Armyes: Con<g ref="char:EOLhyphen"/>trariwiſe, the liberty of doing ill, and the licenſe of treſpaſſes fortifies, ſtrengthens and maintaines the moſt odious Raigne: And though there were impiety in this action, who can bring thee in queſtion? An other, who ſhould be below thee, might very well feare ſome puniſhment: but thou art above the lawes, and thou canſt doe all things abſolutely. Then deferre no longer; or elſe,</hi> He that will exer<g ref="char:EOLhyphen"/>ciſe piety, let him leave the Court.</p>
+               <p>As theſe deteſtable words were ending, <hi>Domitian</hi> appeared,<note place="margin">Drmitian his revenge upon Sueto<g ref="char:EOLhyphen"/>nius.</note> who came in choller, and drag<g ref="char:EOLhyphen"/>ging <pb n="48" facs="tcp:36500:37"/>after him poore
+<hi>Suetonius Tranquillus,</hi> ſaying: Amongſt all theſe
+<hi>Hiſtoriographers</hi> and <hi>Chro<g ref="char:EOLhyphen"/>niclers,</hi> there are none worſe, nor more dangerous, then thoſe who after the death of <hi>Emperours</hi> diſ<g ref="char:EOLhyphen"/>honor their reputation, according to the fancy of their wits. Theſe curſed <hi>Writers,</hi> cannot let <hi>Princes</hi> be in quiet during their life, nor yet after their death, for they cauſe them to revive in their Hi<g ref="char:EOLhyphen"/>ſtories to trouble them afreſh, as this raſh fellow doth towards me, who ſpeakes of mee in theſe tearmes.</p>
+               <p>
+                  <hi>His Treaſure</hi> (ſayes he) <hi>having beene exhauſted, by reaſon of the ex<g ref="char:EOLhyphen"/>ceſſive expences which hee had made in building of Edifices, cauſing Playes to be repreſented, and in augmen<g ref="char:EOLhyphen"/>ting the Souldiers pay.</hi>
+               </p>
+               <p>But I pray, in what can a <hi>Prince</hi> better imploy his Treaſure, then in making of ſumptuous buil<g ref="char:EOLhyphen"/>dings, in recreating of himſelfe, <pb n="49" facs="tcp:36500:37"/>and in recompencing the <hi>War<g ref="char:EOLhyphen"/>riers.</hi>
+               </p>
+               <p>
+                  <hi>Hee endeavoured,</hi> (ſaid he) <hi>to raiſe himſelfe againe, from the ex<g ref="char:EOLhyphen"/>pences which were made in the main<g ref="char:EOLhyphen"/>tenance and entertainement of the Men of</hi> Warre, <hi>to leſſen the number: But confidering that it was to give way unto ſtrangers to play him ſome affront, he made no ſcruple to ranſack and pillage all manner of wayes, the goods of the living and of the dead alſo, which were confiſcate, upon the report of the leaſt accuſer: and to undoe a man, there needed nought elſe, but to goe and ſay that he had ſpoken ill of the</hi> Prince.</p>
+               <p>Is it thus that one ought to ſpeake of <hi>Princes?</hi> what can he ſay worſe of theeves and robbers? Is it not a brazen-fac'd impu<g ref="char:EOLhyphen"/>dence to uſe the ſame tearmes for the Scepters of <hi>Kings,</hi> as for Theeves ſtealing hookes, and to compare them alike?</p>
+               <p>
+                  <hi>He tooke poſſeſſion</hi> (ſayes he a<g ref="char:EOLhyphen"/>gaine)
+<pb n="50" facs="tcp:36500:38"/>
+                  <hi>of thoſe inheritances where he had neither right nor pretext of ſucceſſion, as ſoone as there was a Falſe witneſſe found, who would ſay, that hee had heard the deceaſed</hi> (<hi>to whom</hi> Domitian <hi>had tyrannically raviſhed the goods</hi>) <hi>ſay before his death that</hi> Caeſar <hi>was his Heire. Be<g ref="char:EOLhyphen"/>ſides hee had impoſed an exceſſive Tribute upon the</hi> Jewes, <hi>and there were ſome who fained they were none to free themſelves from 't: And to that purpoſe, I remember that being yet a yong Youth, I was preſent when an</hi> Old man <hi>of foureſcore and ten yeeres old, who was thought to be a</hi> Jew, <hi>was viſited by the Emperours Deputy; alſo before a great aſſembly of</hi> Counſellors, <hi>to ſee whether he was circumciſed yea or no.</hi>
+               </p>
+               <p>What thinke you, <hi>Infernall Gentlemen,</hi> is not that an inſup<g ref="char:EOLhyphen"/>portable injury? How can I helpe the faults and exceſſes of my inferiour Officers? For my part, I wonder that the <hi>Princes</hi> my ſuc<g ref="char:EOLhyphen"/>ceſſors <pb n="51" facs="tcp:36500:38"/>doe ſuffer thoſe ſcanda<g ref="char:EOLhyphen"/>lous writings to be publiſh'd to my diſhonour, I who have ſpent ſo much money in the reeſtabli<g ref="char:EOLhyphen"/>ſhing of the <hi>Libraries</hi> which had beene burnt.</p>
+               <p>As he uttered this word,<note place="margin">Suetonius his Com<g ref="char:EOLhyphen"/>plaint.</note> 
+                  <hi>Sueto<g ref="char:EOLhyphen"/>nius</hi> ſaid with a dying voyce: It is true, that was a recommendable action, and therefore I have not forgotten to make mention thereof. But what canſt thou re<g ref="char:EOLhyphen"/>ply, if I accuſe thee to have writ<g ref="char:EOLhyphen"/>ten in a letter (which contained a certaine command) theſe words, witneſſes of thy pride and im<g ref="char:EOLhyphen"/>piety: <hi>Your Lord, and your God commands it thus.</hi> And if I have ſaid the truth in my writings, whereof doeſt thou complaine? How have I ſpoken of the <hi>Divine Auguſtus,</hi> of
+<hi>Great Iulius Caeſar,</hi> and of <hi>Trajan?</hi> What Heroicall actions have they done, which I have not publiſhed? But for thee, and thy ſemblable who are crow<g ref="char:EOLhyphen"/>ned <pb n="52" facs="tcp:36500:39"/>plagues, what fault have I committed putting before your eyes your tyrannies which cauſes horror unto men and all the earth?</p>
+               <p>This diſcourſe of <hi>Suetonius</hi> was interrupted by the
+<hi>Secret Accuſer</hi> and <hi>Kindler of Diſſentions,</hi>
+                  <note place="margin">Accuſation againſt the Merchants evill Angel.</note> who addreſſing himſelfe to <hi>Luci<g ref="char:EOLhyphen"/>fer,</hi> ſhewing him a <hi>Divell</hi> with his finger: That <hi>Divell,</hi> ſaid he, comes but now from the World, and 'tis twenty yeeres ſince you ſent him thither. Preſently
+<hi>Lucifer</hi> commanded that he ſhould come neere: he came frowardly, and preſented himſelfe to his <hi>Prince.</hi> How (did hee aske) haſt thou been ſo bold to ſtay ſo long with<g ref="char:EOLhyphen"/>out comming to give an account of thy actions? Well, thou art come, but thou haſt not brought along with thee, not ſo much as one poore wicked ſoule, nor no manner of newes from the other World. My <hi>Prince,</hi> an<g ref="char:EOLhyphen"/>ſwered <pb n="53" facs="tcp:36500:39"/>the <hi>Divell,</hi> doe not cen<g ref="char:EOLhyphen"/>ſure me, (if you pleaſe) before you have heard me: whoſoever condemnes before he heares the party, might by chance doe ju<g ref="char:EOLhyphen"/>ſtice, but it would not be juſt. Your <hi>Divelſhip</hi> may be pleaſed to remember that you gave mee a <hi>Merchant</hi> in keeping,<note place="margin">A Merchant</note> neere unto whom I have imployed the time whereof you asked me an ac<g ref="char:EOLhyphen"/>count, that is to ſay, I have beene ten yeeres to cauſe him to com<g ref="char:EOLhyphen"/>mit the <hi>Thefts,</hi> and ten other yeeres to hinder the
+<hi>Reſtitution.</hi> See a little the Diabolicall ex<g ref="char:EOLhyphen"/>cuſe which hee hath found, ſaid <hi>Lucifer! Hell</hi> now a daies is not worth any thing, all is here cor<g ref="char:EOLhyphen"/>rupted, 'tis not now what it was wont to be, and the <hi>Divels</hi> are not now worth a ruſh. Then turning towards his <hi>Vaſſall:</hi> Alas poore idiot! was it needfull to ſtay ſo long neere a <hi>Merchant</hi> to make him ſteale, and afterwards <pb n="54" facs="tcp:36500:40"/>to hinder him to reſtore? thou art an ignorant, thou doſt not yet perfectly underſtand the Art of Divelliſhneſſe. And then cal<g ref="char:EOLhyphen"/>ling one of his <hi>Officers:</hi> Carry a<g ref="char:EOLhyphen"/>way, ſaid he, this <hi>Divell,</hi> and put him in his apprentiſhip to learne his Trade: I ſee hee is a Knave, and that hee tels mee but a Tale: doubtleſſe hee hired himſelfe to the <hi>Comedians</hi> to bee an Actor in their Playes: 'twas there that he was occupied.</p>
+               <p>At that time there came from the ſide of a little hillocke,<note place="margin">Fathers without Children.</note> Men who ran after Women: They cried out, helpe, helpe, ſuccour us, and the men; ſtop, ſtop, take them. <hi>Lucifer</hi> commanded that they ſhould all be ſeaſed on. What's the matter amongſt you, ſaid he? and one of thoſe men, who was almoſt out of breath, anſwered him: Wee are the Fa<g ref="char:EOLhyphen"/>thers without Children, and theſe Carrions. Speake more <pb n="55" facs="tcp:36500:40"/>civilly and truly, ſaid then a <hi>Devill</hi> unto him, who as one may preſume was protector of the re<g ref="char:EOLhyphen"/>ſpect due unto thoſe Dames: he had reaſon touching the truth, for it could not be poſſible that they ſhould be Fathers without Children. It is true, ſaid that man, that wee are all Fathers, as having had Children who called us ſo; wee were married, and men of honour and wealth: and though we had beene abſent a long time, and had great ſickneſſes which hindred us from child-getting; though wee were <hi>de frigidis &amp; maleficiatis,</hi> or elſe that being neere them, wee did nothing but ſleepe, nevertheleſſe they brought us forth Children every yeere, which wee were bound to nouriſh, beleeving charitably that they were of our propaga<g ref="char:EOLhyphen"/>tion, for one poore imbrace, which it may be we had once all the yeere long; and in this opi<g ref="char:EOLhyphen"/>nion,
+<pb n="56" facs="tcp:36500:41"/>we have ingaged our Soules in a thouſand Rapines, Robbe<g ref="char:EOLhyphen"/>ries, Vſuries and Thefts, for to leave them many goods: and now that the mothers are dead, we have learned that thoſe Chil<g ref="char:EOLhyphen"/>dren were forged by our ſervants and friends; and alſo ſome of them have conceaved by the eares, as ſtoates do.</p>
+               <p>Thereupon came a little Huſ<g ref="char:EOLhyphen"/>band a <hi>Spaniard</hi> by Nation, who ſeemed to be an end of a man, who ſpake like a dog that yeopes: and approching neere the com<g ref="char:EOLhyphen"/>pany he began to cry out: Oh in<g ref="char:EOLhyphen"/>famous Woman! thou art heere, 'tis now that thou ſhalt deprive me of this Title of Father having not deſerved it, and yet to the Sonne of my <hi>Moore:</hi> I proteſt unto thee, that thou ſhalt preſently re<g ref="char:EOLhyphen"/>ſtitute unto me the Title of legi<g ref="char:EOLhyphen"/>timate which I have given him. Alas! I alwayes miſtruſted ſome<g ref="char:EOLhyphen"/>thing, but I would never have <pb n="57" facs="tcp:36500:41"/>thought that this diſloyall wo<g ref="char:EOLhyphen"/>man had committed ſuch Blacke ſinnes, there being ſo many faire yong men about us. I did almoſt attribute the fault unto certaine
+<hi>Monckes,</hi> (whereof I am ſorry with all my heart) becauſe this wicked woman to abuſe me, went almoſt every day in their <hi>Covent,</hi> ſaying it was to confeſſe her ſelfe: and I who tooke no delight in this exceſſive mortifi<g ref="char:EOLhyphen"/>cation, I (in confidence) com<g ref="char:EOLhyphen"/>plained unto the ſame
+<hi>Moore:</hi> I do not know, (would I ſay unto him) where thy
+<hi>Miſtris</hi> gets all thoſe ſinnes which ſhe goes dayly and hourely to confeſſe in that <hi>Co<g ref="char:EOLhyphen"/>vent:</hi> and the <hi>Ribald Moore,</hi> with an Oh <hi>God Sir!</hi> what do you ſay! I ingage with all my heart my ſoule with hers. Alas! 'tis a Lady which doth but<note n="*" place="margin">Note, that Pies in French ſig<g ref="char:EOLhyphen"/>nifies both pious and Meg-pies.</note> pious workes. I was then ſuch an Innocent, that I tooke this anſwer for a praiſe and excuſe in favour of my Wife: <pb n="58" facs="tcp:36500:42"/>But I have perceaved ſince, that it was a true confeſſion of their joint treſpaſſe, for it was true that he ingaged his ſoule with hers, and begat pies together, becauſe hee was blacke, and ſhe was white.</p>
+               <p>Truely 'twould bee very fine, ſaid, (after him) all the adopted Fathers, that a man ſhould paſſe all his life time, ſometimes ſuffe<g ref="char:EOLhyphen"/>ring all the diſcommodities that a Woman with child gives to all thoſe that are about her, ſome<g ref="char:EOLhyphen"/>times waiting upon her being in Child-bed, enduring the impor<g ref="char:EOLhyphen"/>tunate cries of a child, the fadles of a nurſe which muſt bee flatte<g ref="char:EOLhyphen"/>red, cogged withall, well nou<g ref="char:EOLhyphen"/>riſhed, well lodged, and well payd. And though we ſee well enough, that thoſe children re<g ref="char:EOLhyphen"/>ſemble us not, for all that, wee avow them to bee ours, and to heare their adulterous Mothers ſay; Verily it needs not to bee <pb n="59" facs="tcp:36500:42"/>asked who is the Father, he hath all the lineaments of his face: he laughs and weepes as he doth: &amp; beſides all theſe troubles, ſuffered patiently, to ſee us at this preſent in <hi>Hell</hi> both Damned and Cuc<g ref="char:EOLhyphen"/>kolds altogether: 'tis too much, it muſt not be ſo.</p>
+               <p>Then a great rumor was heard in a very deep Dungeon, betwixt the
+<hi>Ghoſts</hi> and the <hi>Devils.</hi> The Viſite made a ſtand, to know whence that proceeded. 'Twas ſeene that they were the <hi>Preſump<g ref="char:EOLhyphen"/>tuous, Revengefull,</hi> and <hi>Envious,</hi>
+                  <note place="margin">Preſumptu<g ref="char:EOLhyphen"/>ous, Reveng<g ref="char:EOLhyphen"/>full and Envious.</note> who kil'd themſelves with crying out. Some ſaid, <hi>Oh, if I could be borne againe!</hi> Others, <hi>Oh if it was permitted unto me to returne in the World! Oh if one died twice!</hi> And on the other ſide, the <hi>Devils</hi> be<g ref="char:EOLhyphen"/>ſotted and wearied with theſe importunate Exclamations, ſaid unto them: Yee Infamous De<g ref="char:EOLhyphen"/>ceavers, will you never leave theſe impertinent and unuſefull <pb n="60" facs="tcp:36500:43"/>wiſhes? You are <hi>Cheaters:</hi> for though you could be borne and live againe, not onely once, but a thouſand times, It is moſt cer<g ref="char:EOLhyphen"/>taine that you ſhould yet die more wicked, and then it would be impoſſible for us to drive you hence with baſtonadoes. Never<g ref="char:EOLhyphen"/>theleſſe to the end you ſhould make a tryall of the truth of our words, and that you ſhould ac<g ref="char:EOLhyphen"/>knowledge who you are, You have a grant to revive and re<g ref="char:EOLhyphen"/>turne againe into the World: Up then
+<hi>Raſcals,</hi> goe, be borne againe, returne backe, returne. The
+<hi>Divels</hi> ſaying this, yerkt thoſe poore Soules with their Whips, and thruſted them to cauſe them to goe out: but rather then to conſent unto their deliverance, as ſoone as they heard theſe words: <hi>
+                     <g ref="char:V">Ʋ</g>p, be borne, and live a<g ref="char:EOLhyphen"/>gaine,</hi> they were taken with ſuch a great feare, that they remained ſtill, and buried themſelves in a profound ſilence.</p>
+               <pb n="61" facs="tcp:36500:43"/>
+               <p>There was one of the compa<g ref="char:EOLhyphen"/>ny, who ſeemed to have a more reaching wit, and to be more re<g ref="char:EOLhyphen"/>ſolute then the reſt: which began very gravely to ſay by way of deliberation whether hee ſhould goe out of
+<hi>Hell,</hi> or no.</p>
+               <p>If I am begotten a <hi>Baſtard,</hi>
+                  <note place="margin">Miſeries of the Infancy.</note> I ſhall bee deſpifed and ſcorned of all, by reaſon of my <hi>Fathers</hi> and <hi>Mothers</hi> ſinne: If I ſhall bee law<g ref="char:EOLhyphen"/>fully begotten, then I am ſure the Marriage-makers will play their part, with a thouſand fables, de<g ref="char:EOLhyphen"/>vices, and falſe tales, with other things incident unto Marriage, as many ſecret imperfections and infirmities of the one or both the parties. At my very birth I ſhall begin to weepe, at the Miſeries of Mans life: I ſhall live, not knowing what it is to live, I ſhall begin to die, before I have learned what Death is: I ſhall bee envelopped with Swadling<g ref="char:EOLhyphen"/>cloathes and blankets, which re<g ref="char:EOLhyphen"/>preſents <pb n="62" facs="tcp:36500:44"/>the being wrap't up in a Winding Sheet, and the Cradle, the Sepulcher: I ſhall ſuck the breſts of ſome unholſome Nurſe, which it may be will ſtifle me in her ſleepe, which it may be will leave me a long time in my filth, who will pinne a pin about me that will pricke me a whole day, my Teeth will breake forth, I ſhall have the Frets in my belly, by reaſon of the ill ſubſtance wherewith my Nurſes diſorderly life will feed mine. Inſomuch, that to the end I may ſhunne all thoſe Miſeries, I had rather re<g ref="char:EOLhyphen"/>maine in <hi>Hell</hi> for ever. And if by chance, I ſurvive this Age of In<g ref="char:EOLhyphen"/>fancy, and that I ſcape the Small Pox and Purples, and that I come to bee ſent to Schoole, I ſhall be ſubject to catch the Itch, it may be a Scauld Head, and Kibes at my Heeles: if it bee in Winter; I ſhall have a Limbecke Noſe diſtilling Snivell and Snot: I
+<pb n="63" facs="tcp:36500:44"/>muſt learne my leſſon, upon paine of the Rod: If I goe late to Schoole, the Buttockes ſhall pay for the ſloth of the Feet. Curſed then be he, who will long, to be borne againe. Againe if I come to
+<hi>Youth,</hi> I ſhall be inſnared,<note place="margin">Miſeries of Youth.</note> in the inticings of Womens Lux<g ref="char:EOLhyphen"/>ury, they will ſet Traps every where to catch me, and by a thou<g ref="char:EOLhyphen"/>ſand ſeverall Charmes flatteries and Laſciviouſneſſe in their ha<g ref="char:EOLhyphen"/>bits and behaviour they will ob<g ref="char:EOLhyphen"/>lige me to ſatiſfie unto their Luſtfull Appetites. For my part, I am no more of the Humor to take the garb of a Courteous and Neat <hi>Adonis:</hi> I will not ſuffer againe the Shoomakers Torture,<note place="margin">Adonis.</note> which cauſes Cornes to come in ones Feet; I will Iron my haires and Beard no more, nor change my Swan-like colour into that of a Crow: I will no longer admire my ſelfe in my Shaddow, nor go any more to play with the Balls,
+<pb n="64" facs="tcp:36500:45"/>of mine Eies in aſſemblyes, pro<g ref="char:EOLhyphen"/>faning often ſacred places, to ſee which of them hath the Faireſt Lookes: I will not go againe to warme the Ayre of the Night, with my Inflamed Sighs, nor to be an ominous bird, to be com<g ref="char:EOLhyphen"/>panion unto Bats and Owles: that Paſſion hath left me, which made me make the <hi>Zani</hi> in the corner of a ſtreete, and the round about a Miſtreſſes lodging, to adore her imperfections, make chaines with a fillet of her Haire, or to give all my Goods for one of her Shooſtrings Oh curſed and more then curſed is he, that would be<g ref="char:EOLhyphen"/>gin againe, to lead ſuch an un<g ref="char:EOLhyphen"/>happy life. Then ſeing my ſelfe a
+<hi>Man,</hi>
+                  <note place="margin">Miſeries of Manly age.</note> to be overwhelmed with Cares, and ſeverall troubles, of Proces and quarrells, if I have goods: If I am Poore, with ſor<g ref="char:EOLhyphen"/>rowes of my miſfortune, betwixt repentance and experience; be<g ref="char:EOLhyphen"/>ginning to have a feeling of the
+<pb n="65" facs="tcp:36500:45"/>fore-runners of diſeaſes, which <hi>Youth</hi> had purchaſed by little and little with its debauſhes. Thus making my Noviciat to at<g ref="char:EOLhyphen"/>taine unto <hi>Old age</hi> and being arri<g ref="char:EOLhyphen"/>ved,<note place="margin">Of Old age.</note> to become Melancholy, Grimme, finding no object which can pleaſe, rayle againſt Yeeres and ſeeke out the Fountaine of <hi>Youth</hi> in Shops, and the Razors and Painting of a <hi>Barber;</hi> to ſay that Wrinckles, are ſignes and markes, brought into the World, or elſe that they are cauſed with too much laughter, diſavowing my Yeeres before ſo many Wit<g ref="char:EOLhyphen"/>neſſes, who depoſe againſt us, as the Weakning of ſtrength, the Dimneſſe of ſight, and want of Teeth, the Gout, Megraines, Catarras, and the ſtone or Gra<g ref="char:EOLhyphen"/>vell. And beſides, what paine can be compared to a Palſie of the members? and ſeeing my ſelfe as it were fall all to peeces, to ſay that I am Luſtier and healthier <pb n="66" facs="tcp:36500:46"/>then ever I was, that I could tra<g ref="char:EOLhyphen"/>vell better, that my legges are yonger, and a thouſand other fooleries, which do coſt deere unto thoſe <hi>Old fooles,</hi> that ſayes them. But all that is nothing, in reſpect of the diſcommodities which Love brings;<note place="margin">Againſt Old people being in Love.</note> when it takes hold of a man, which is ſtrucken in yeeres, and principally, when hee ſees himſelfe imbark't to Court a Woman in concurrence of ſome
+<hi>Youthfull Rivall:</hi> Some<g ref="char:EOLhyphen"/>times to be conſtrained to bluſh, when they will call me their Old Sweet-heart, and will ſay; now the time is not as it was wont, and many other things as trouble<g ref="char:EOLhyphen"/>ſome to endure. And if perad<g ref="char:EOLhyphen"/>venture, Life holds out, to lead a man to <hi>Decrepitude,</hi>
+                  <note place="margin">Miſeries of man being decrepite.</note> and that it faſhions his head like <hi>the Picture of Death,</hi> that his Fleſh be conſumed and waſted away, and that there remaines nothing but a Looſe and Wrinkled Skinne of <pb n="67" facs="tcp:36500:46"/>the colour of dryed Wall-nuts; that hee goes with a ſtaffe in his hand, ſtumbling againſt Sepul<g ref="char:EOLhyphen"/>chers as it were to deſire them to make him Roome; that he be as a dreame, or like a moving Fan<g ref="char:EOLhyphen"/>taſma; that his Kidneyes and Bladder, bee converted into a Quarry: that hee becomes an Aſ<g ref="char:EOLhyphen"/>trologue of Urines; that hee be eſpied by his Heires; that he be the Rent of <hi>Phyſitians,</hi> the Occu<g ref="char:EOLhyphen"/>pation of
+<hi>Surgeons;</hi> the Swal<g ref="char:EOLhyphen"/>lower and Paymaſter of the <hi>Apo<g ref="char:EOLhyphen"/>thecaries</hi> Old Drugs, that hee be called Father, and ſometimes Grandfather: No, no, one
+<hi>Hell</hi> is much better then two Wombes.</p>
+               <p>When I come likewiſe to con<g ref="char:EOLhyphen"/>ſider the Happineſſe,<note place="margin">Miſeries of life in gene<g ref="char:EOLhyphen"/>rall.</note> Vertue and Conditions of Life: that to bee <hi>Rich,</hi> one muſt be a <hi>Thiefe;</hi> to be a
+<hi>Man of Honour,</hi> you muſt be a <hi>Flatterer,</hi> an <hi>Inventer of Subtilties,</hi> and <hi>Inquiſitor</hi> of others Affaires: that if you
+<hi>Marry,</hi> you put your <pb n="68" facs="tcp:36500:47"/>ſelfe in danger of being
+<hi>Horued:</hi> to be <hi>Valiant,</hi> be a <hi>Mutineer, Quar<g ref="char:EOLhyphen"/>relſome, Blaſphemer:</hi> and amongſt all that if you are <hi>Poore,</hi> none will know you: if you be <hi>Rich,</hi> you will know no body: if you die
+<hi>Yong,</hi> it will be ſaid, you were <hi>Vnfortunate:</hi> if
+<hi>Old,</hi> that you were good for nothing, and that 'twas no great loſſe: If you are <hi>Devout,</hi> and that you frequent the
+<hi>Church,</hi> it will bee ſaid you are an <hi>Hypo<g ref="char:EOLhyphen"/>crite:</hi> if you doe not, it will bee thought you are an <hi>Hereticke:</hi> if you are of a
+<hi>Ioviall</hi> diſpoſition, you ſhall be held for a <hi>Bouffoune:</hi> if <hi>Sad,</hi> for <hi>Vnpleaſing</hi> and <hi>Irkeſome:</hi> if you are
+<hi>Curteous,</hi> you ſhall bee called a <hi>Catcher of Yong fooles:</hi> if
+<hi>Diſcourteous, Proud:</hi> Then Fare<g ref="char:EOLhyphen"/>well <hi>Worldly Life,</hi> and thoſe who will begin it againe. I would not re-enter whence I came out, for all what the World eſteemes moſt. How now <hi>Camarades,</hi> ſaid he unto his Companions, now <pb n="69" facs="tcp:36500:47"/>you have heard me, is there any one amongſt you who hath a mind to returne into the World, and to retrograde his life as farre as his Mothers Belly? No, no, no, anſwered they all:
+<hi>Hell, Hell,</hi> rather then <hi>Ma Mam: Divels</hi> ra<g ref="char:EOLhyphen"/>ther then
+<hi>Mid-wives.</hi>
+               </p>
+               <p>After that, was heard a <hi>Teſta<g ref="char:EOLhyphen"/>tor,</hi> that is to ſay, a man who had made his <hi>Will,</hi> which was ſaying:<note place="margin">One Repen<g ref="char:EOLhyphen"/>ting becauſe he had made his Will.</note> Am not I a curſed man, to be the Homicide of my ſelfe? if I had made no <hi>Teſtament,</hi> I ſhould bee yet in perfect health. The moſt dangerous diſeaſe, after the
+<hi>Phy<g ref="char:EOLhyphen"/>ſitian</hi> is the <hi>Will:</hi> many more have dyed, becauſe they had made their <hi>Wils,</hi> then by reaſon of any other Diſeaſe. Yee Living, Li<g ref="char:EOLhyphen"/>ving (cried hee with an open throat) looke you make no
+<hi>Wills,</hi> and you ſhall live as long as <hi>Ra<g ref="char:EOLhyphen"/>vens.</hi> Unhappy that I am! I threw my ſelfe in the perill, putting my ſelfe in the hands of
+<hi>Phyſitians,</hi> 
+                  <pb n="70" facs="tcp:36500:48"/>and I have ſigned my Sentence of Death when I ſigned my <hi>Will.</hi> The <hi>Phyſitian</hi> forſooke me, when he preſcribed unto me to put my affaires in order. And I being led with wiſedome and devoti<g ref="char:EOLhyphen"/>on, began at the inſtant the pro<g ref="char:EOLhyphen"/>logue of my
+<hi>Will,</hi> in theſe words, IN NOMINE DOMINI, A<g ref="char:EOLhyphen"/>MEN, &amp;c. then comming to part my goods, I ſpake theſe words: (Oh why did I not then become Dumbe!) <hi>Item, I make my</hi> Sonne <hi>my Generall Heire. I give unto my</hi> Wife <hi>ſuch and ſuch things of my moveables, &amp;c. Item, to ſuch a one my</hi> Servant, <hi>I give the ſumme of, &amp;c. To ſuch a one my</hi> Servant-Maid, <hi>ſuch another ſumme. Item, to ſuch a</hi> Gentleman <hi>my Intimate Friend, (to the end he may remem<g ref="char:EOLhyphen"/>ber mee) I bequeath all my Silver Plate. Item, if I die, it is my Will, that Liberty and Freedome be given unto</hi> Muſtafa <hi>my</hi> Slave. <hi>Item, to</hi> Maſter Doctor <hi>ſuch a one, a</hi> Phyſi<g ref="char:EOLhyphen"/>tian, <pb n="71" facs="tcp:36500:48"/>
+                  <hi>I give my great Diamond, in conſideration of the care and dili<g ref="char:EOLhyphen"/>gence whereof hee hath uſed, during my ſickneſſe.</hi> And from the very inſtant that I did ſet my hand to thoſe Articles, the Earth, unto which I had bequeathed my Bo<g ref="char:EOLhyphen"/>dy, hungred after my Fleſh, and asked for it to devoure it: and every one of thoſe to whom I had given <hi>Legacies,</hi> and my <hi>Heires,</hi> tooke care whether I ſhould die or no, and if the ſickneſſe would be long. After that, if I asked ſome Potion or Julep, my <hi>Heire</hi> at the ſame time demanded my Goods: my <hi>Wife</hi> likewiſe the Tapiſtry and other Moveables which I had given her: my <hi>Ser<g ref="char:EOLhyphen"/>vant,</hi> his Legacy: my
+<hi>Friend</hi> the Plate: &amp; the <hi>Phyſitian,</hi> to recreate his ſight upon my Diamond, de<g ref="char:EOLhyphen"/>manded to feele my pulſe. If I asked him of what
+<hi>I</hi> ſhould eate? Of all things, would hee ſay. If <hi>I</hi> made ſome Groane, my <hi>Sonne</hi> be<g ref="char:EOLhyphen"/>lieved <pb n="72" facs="tcp:36500:49"/>that <hi>I</hi> was yielding up the <hi>Ghoſt,</hi> my <hi>Wife</hi> commanded, that the Hangings ſhould be taken downe, and the reſt of the Move ables put up: my
+<hi>Servant</hi> was importunat for his Legacy: my <hi>Friend</hi> aſk't how much the ſilver Plate which I had given him was worth: the <hi>Slave</hi> would have his Freedome: &amp; becauſe nothing of all that, could be executed untill I was dead, it appeared, that even as I gave and diſperſed my goods amongſt them, even ſo I ordey<g ref="char:EOLhyphen"/>ned that they ſhould all wiſh for my Death. And therefore, I pro<g ref="char:EOLhyphen"/>teſt, if I came to live againe, I would make a
+<hi>Will altogether</hi> dif<g ref="char:EOLhyphen"/>ferent, from the firſt. I would ſay, <hi>I ordeyne that whatſoever my</hi> Sonne <hi>ſhall eate of my Goods after my death, may be converted into</hi> Poiſon; <hi>that my Curſe may light on his Head, and that all that which I leave againſt my will, (becauſe I cannot carry it away) aſwell unto him as unto <pb n="73" facs="tcp:36500:49"/>the reſt, that the</hi> Devill <hi>may take poſſeſſion thereof: and carry it away if he can. That the Plague, Rage, or Deſpaire may choake my</hi> Wife.
+<hi>Item, if I dye, I ordeyne that my</hi> Slave <hi>my have ſo many ſtripes, with a ſtir<g ref="char:EOLhyphen"/>rop lether, three times a day: That my</hi> Wife
+<hi>may make herſelfe party againſt my</hi> Phyſitian, <hi>accuſing him to have beene cauſe of my Death:</hi> for I muſt avow that I am not in cha<g ref="char:EOLhyphen"/>rity whch that Wicked Fellow: becauſe he hath not contented himſelfe to have tormented me being in Health, and to have made an end of killing of me being ſicke, he hath yet perſe<g ref="char:EOLhyphen"/>cuted me after Death, even as he, and the moſt part of his pro<g ref="char:EOLhyphen"/>feſſion do, of thoſe Poore Idiots, who abandon themſelves unto them, to go ſo much the ſooner in the other World. For when they have diſpatched us, and that we are gone, they do accuſe us of a thouſand Imperfections: <pb n="74" facs="tcp:36500:50"/>
+                  <hi>Gods</hi> Peace be with him, ſay they, his exceſe of Drinking hath kil<g ref="char:EOLhyphen"/>led him. How could we Cure him, he was ſo Diſorderly in his diet? he was a Mad Man, he was a Foole, he would not obey the <hi>Phyſitian:</hi> It was a Rotten Body, Cacochyme, a Iakes of Infection: he lived ſo ill, that it was much better for him to dye; his houre was come. Oh <hi>Theeves,</hi> Oh <hi>Murtherers!</hi> 'tis you that is the Houre: for at the inſtant that you enter, in a ſicke bodies chamber, one may very well ſay, that he ſhall dye, and that, <hi>His Houre is come.</hi> Cruell, is't not enough for you, to take away the life of a Man, and to cauſe your ſelves to be paid for his Death, as Hangmen do, but you muſt excuſe your Ignorance, upon the diſhonour and Infamy of the Poore Deceaſed? Oh yee living who creepe yet upon Earth, learne of me, how you ought to make your <hi>Wills:</hi> for if <pb n="75" facs="tcp:36500:50"/>you will practiſe the method which I taught you juſt now, the <hi>Yong,</hi> will attaine unto <hi>Old age;</hi> and the <hi>Old,</hi> unto <hi>Decrepitude:</hi> you ſhall all dye Contented and full of dayes, and ſhall not be cut downe in the bloſſome of your Age, by the Doctorall Sithes of the
+<hi>Phyſitians.</hi>
+               </p>
+               <p>This Deceaſed ſpake with ſo much vehemency, that
+<hi>Lucifer</hi> judged, he had ſpoken the Truth: but becauſe all Truths are not good to bee ſaid, and chiefely amongſt <hi>Devils,</hi> who hate it Mor<g ref="char:EOLhyphen"/>tally: and fearing leſt a greater diſorder ſhould happen, if the
+<hi>Phyſitians</hi> came to the hearing of thoſe diſcourſes, ſpoke<g ref="char:cmbAbbrStroke">̄</g> by the de<g ref="char:EOLhyphen"/>ceaſed to their prejudice, <hi>Lucifer</hi> ordered that he ſhould be gag'd.</p>
+               <p>Of neceſſity ſilence was made, to give eare unto the rumor of a <hi>Damned,</hi> which running like a fu<g ref="char:EOLhyphen"/>rious Franticke, came and paſſed through the company, crying <pb n="76" facs="tcp:36500:51"/>out: <hi>Where am I? where am I? what's the meaning of this? I have beene couſined: There are</hi> Devills, <hi>who Tempt; others, who Damne, and others, who Torment: I have run<g ref="char:EOLhyphen"/>ned and viſited all</hi> Hell, <hi>and yet I ſee not one of thoſe</hi> Devills, <hi>who have brought me hither; where are my</hi> Devills? <hi>who hath robbed me of my</hi> Devills? <hi>let my</hi> Devills
+<hi>be reſtored unto me.</hi>
+               </p>
+               <p>There was never ſuch a ſtranger thing ſeene, to looke out for <hi>De<g ref="char:EOLhyphen"/>vills,</hi> in <hi>Hell,</hi> where they are in ſwarmes: and as he did run, like one out of his wits, the <hi>Doüegna</hi> tooke him by the arme, and ſtop't him. Oh unhappy <hi>Ghoſt!</hi> if thou wanteſt
+<hi>Devills</hi> heere, where doſt thou meane to go and looke them? He opened his eyes, and knowing her who ſtayed him: Oh Enſigne of Belzebub, Figure of Sathan,<note place="margin">An Inve<g ref="char:EOLhyphen"/>ctive of one of the Dam<g ref="char:EOLhyphen"/>ned against a Doüegna.</note> Mediatrix for the Damned, Aſſembler of diverſe Sexes, Heaper up of Vices, the <pb n="77" facs="tcp:36500:51"/>Sinners Guide, Seaſoner and Temperer of Delights and Plea<g ref="char:EOLhyphen"/>ſures; Whoredomes Harbinger, the Spend-thrifts Prologue, the Interpreter and Mediator for the Luxurious, where haſt thou left the he and ſhe <hi>Devills,</hi> who have brought me hither? for, I am nei<g ref="char:EOLhyphen"/>ther ſuch a Sot nor Idiot, that I will be cheated, and carried a<g ref="char:EOLhyphen"/>way by theſe <hi>Divels</hi> who have tayles, and hornes like Oxen: who are as ſmoakie as Pot-hangers, who have Swines dugs, and Bats wings. Thoſe that I looke for, are far more wicked; they are thoſe <hi>Mothers,</hi> which wound men with their <hi>Daughters,</hi> lanching them forth as venomed darts; thoſe <hi>Aunts,</hi> which cauſe their <hi>Neeces</hi> to flie up and downe, as ſparkles of fire; thoſe Subtile and Guile<g ref="char:EOLhyphen"/>full Laſſes, who pieerce with their Eyes, which they hold as ſteddy as a <hi>Cavalleere</hi> doth his Lance; thoſe <hi>Flatterers,</hi> who perpetually
+<pb n="78" facs="tcp:36500:52"/>ſay, yes, to all which is deſired of them; thoſe
+<hi>Sowers</hi> of Quarrels and Diſſentions, who are the Wormes, which Gnawes the Reſt and Quiet of others: thoſe <hi>Traders</hi> in Lyes, who report that which they have not heard, affirme that which they know not, and ſweare that which they believe not. Thoſe <hi>Slanderers,</hi> which are the carrion Crowes of the Honour and Credit, who fall and feede onely on dead fleſh.<note place="margin">Hypocrites.</note> Thoſe <hi>Hy<g ref="char:EOLhyphen"/>pocrites,</hi> who make <hi>Profit</hi> of <hi>Mor<g ref="char:EOLhyphen"/>tification,</hi> as of a Rent; who ſeeme to be in an Extaſis, when they are <hi>Glutted;</hi> who publiſh their Lies, for <hi>Revelations;</hi> who make <hi>Pulpits,</hi> of <hi>Tables,</hi> and
+<hi>Banquetts; Deſarts,</hi> of <hi>Companyes; Miracles,</hi> of
+<hi>Ordinary</hi> things, who <hi>Divine</hi> all things, after they have beene told them; who raiſe the Living from the Dead, who counterfeit to be ſick, when they ſhould worke, and who give people unto the <hi>Devill</hi> with
+<pb n="79" facs="tcp:36500:52"/>a <hi>Doe grtias.</hi> Thoſe were the <hi>Devills</hi> which were cauſe of my Damnation: and thou ſhalt re<g ref="char:EOLhyphen"/>ſtore them unto me, and finde them out, thou curſed Old Wo<g ref="char:EOLhyphen"/>man, for they are all hidden un<g ref="char:EOLhyphen"/>der thy Garment.</p>
+               <p>Thereupon, he takes hold on her: there was much adoe, to ſe<g ref="char:EOLhyphen"/>parate them one from the other. This Deſperate Fellow pulled &amp; dragged a long, the poore <hi>Doüeg<g ref="char:EOLhyphen"/>na;</hi> inſomuch that hee tore the vayle, wherein ſhe was wrapt up: but <hi>Lucifer</hi> made them hold their peace with his abſolute Power.</p>
+               <p>That done, a great noiſe of Hinges and Gates not well oiled, was heard, with a ſtrange rumor of a great multitude of people:<note place="margin">Old Women painted.</note> the firſt which appeared were <hi>Old Women</hi> Painted Preſumptuous and Bablers, who counterfeited to be joviall and frolicke: they laughed and fooled together, <pb n="80" facs="tcp:36500:53"/>ſhewing that they were not diſ<g ref="char:EOLhyphen"/>contented. The <hi>Secret accuſer</hi> diſ<g ref="char:EOLhyphen"/>liking their carriage, fayled not but accuſed them preſently, in that their mirth accompanied them even in <hi>Hell,</hi> which was reputed to be a very Criminall treſpaſſe. At the inſtant they were queſtioned why they were ſo merry, ſeeing they were of the number of the Damned, who have for their portion nothing but <hi>Weeping and gnaſhing of Teeth:</hi> And then one of the company, which reſembled Death, moun<g ref="char:EOLhyphen"/>ted upon Pattins of halfe an Ell high, according to the faſhion of the little <hi>Ladies</hi> and
+<hi>Dames</hi> of this age, who ſpeaking in the name of all the reſt, advanced her ſelfe ſaying: <hi>Lord Lucifer;</hi> comming hither, we were very ſad and me<g ref="char:EOLhyphen"/>lancholy, as much as <hi>Old damned Women</hi> may bee, and ſo <hi>Old</hi> and worne out, that there is nought elſe remaining on us, but the <pb n="81" facs="tcp:36500:53"/>Markes and the Excrement of yeeres, over the Bones: but as we ſaw this inſcription, which is upon the Gate of this Habitati<g ref="char:EOLhyphen"/>on:
+<hi>Here is the abode where there is weeping and gnaſhing of teeth,</hi> wee have all beene comforted, think<g ref="char:EOLhyphen"/>ing that if there was no other torments to ſuffer, we ſhould be quit at an eaſie rate, ſeeing that we are ſo dry, that there is no moiſture in us, which can pro<g ref="char:EOLhyphen"/>duce any teares; and beſides, that we are all toothleſſe. There may be yet ſome moiſture in your Eyes, and ſome Stumps in your mouthes, ſaid the <hi>Flatterer:</hi> there<g ref="char:EOLhyphen"/>fore your Jolity may bee vaine, and of little durance. They were viſited and found ſo dry that they were put in <hi>Hells</hi> Tinder<g ref="char:EOLhyphen"/>boxes, to ſerve for Tinder and Matches.</p>
+               <p>After them,<note place="margin">Pernicious obſtinate.</note> arrived many people of all Conditions, Qua<g ref="char:EOLhyphen"/>lities and Offices, who began to
+<pb n="82" facs="tcp:36500:54"/>cry out: <hi>Gentlemen, Gentlemen</hi> ſaid they unto the firſt which they perceived: which of you is it, who keepes the Regiſter of Recompences? ſhew him unto us, before we come in, any fur<g ref="char:EOLhyphen"/>ther. Why ſaid then one of the company, I thought wee had beene in <hi>Hell:</hi> but ſince there are here Recompences to be hoped for, I ſee that wee are not there.
+<hi>Good, good, good,</hi> anſwered all the multitude. <hi>A ſhort Ioy, a ſhort Ioy,</hi> replies the <hi>Flatterer. Good Hell, Good Hell,</hi> therefore 'tis to no end to thinke that there are here Re<g ref="char:EOLhyphen"/>giſters kept, for Recompences, where liberality conſiſts, nought but in Paines, and Torments. Nevertheleſſe, wee hoped for them very much, ſaid hee who had ſpoken firſt. How could that bee? ſaid the <hi>Flatterer:</hi> I will tell you, ſaid the other: Cer<g ref="char:EOLhyphen"/>taine people, being informed of our Theſis, moved with Charity, <pb n="83" facs="tcp:36500:54"/>have often endeavoured by Holy Remonſtrances to make us alter the courſe of our Life: but be<g ref="char:EOLhyphen"/>ing Naturallized unto it, we an<g ref="char:EOLhyphen"/>ſwered them with theſe reaſons: <hi>What can wee doe leſſe? Should wee ſtay, that thoſe things, which every one keepes ſo carefully, ſhould bee brought unto us? And how would you have a Vagabond live, who hath neither Maſter, nor Office, and who loves to paſſe away his time, with Curtezans, at Play, and Tavernes, if he had not ſome ſubtile induſtry?</hi> And then hee that gave us thoſe wholſome Counſels, ſeeing our Obſtinacy, told us; <hi>The recompence then, will be given you in the other World.</hi>
+               </p>
+               <p>As alſo, when any one of us, Courted a Friends Wife, abuſing of his Confidence, and Diſhono<g ref="char:EOLhyphen"/>ring his Houſe; and, if any ſhew<g ref="char:EOLhyphen"/>ed them, the Enormity and Baſe<g ref="char:EOLhyphen"/>neſſe of their fact, they excuſed themſelves thus, <hi>What will you <pb n="84" facs="tcp:36500:55"/>have us doe? ſhall we rather goe into houſes, where wee are watched with a Poignard behind a doore, or with a Piſtoll, then in thoſe, where the Entry is ſo Free &amp; eaſie, where I am invited and feaſted, and where I am truſted:</hi> and then, the party who rebuked us, ſeeing our hardneſſe of Heart, left us with theſe words: <hi>The recompence thereof, ſhall be given you in the other World.</hi> And becauſe we thought, wee had beene arri<g ref="char:EOLhyphen"/>ved in that other World, we aske for thoſe recompences, which the Vertuous have promiſed un<g ref="char:EOLhyphen"/>to us.</p>
+               <p>
+                  <hi>Abominable Raſcals,</hi> ſaid then an <hi>Officer</hi> of the <hi>Soveraigne Iuſtice,</hi> how many wicked men are there amongſt you, who have often abandoned their houſe and fa<g ref="char:EOLhyphen"/>mily, to the diſcommodities of want and neceſſity, and to ſpend and bring to naught, all their goods, to debauſh and corrupt Chaſtity, and to commit a thou<g ref="char:EOLhyphen"/>ſand <pb n="85" facs="tcp:36500:55"/>Whoredomes and Adulte<g ref="char:EOLhyphen"/>ries, and when they were admo<g ref="char:EOLhyphen"/>niſhed, to take compaſſion of their Wives and Children, they inſolently anſwered: <hi>Wee have recommended them unto</hi> God, <hi>who will have care of them; aſwell as of</hi> Yong Ravens <hi>and other Birds.</hi> And <hi>Infamous Villaines,</hi> were not you then told; that
+<hi>you ſhould re<g ref="char:EOLhyphen"/>ceive the recompence in the other World?</hi> 'Tis at this time, and in this place, that you ſhall receive Your <hi>Recompence.</hi> Up
+<hi>Curſed,</hi> come in, 'tis time. Saying that, a multi<g ref="char:EOLhyphen"/>tude of
+<hi>Divels,</hi> tooke Firebrands, and began to give them the
+<hi>Re<g ref="char:EOLhyphen"/>compence</hi> promiſed &amp; hoped for; which was, a liberall &amp; ample diſ<g ref="char:EOLhyphen"/>tribution of Blowes: and whilſt they complained, vomiting forth horrible oathes, a voyce was heard, which ſaid: <hi>The Recom<g ref="char:EOLhyphen"/>pence ſhall be given you in the other World.</hi>
+               </p>
+               <p>After this tempeſt, many <hi>Evill <pb n="86" facs="tcp:36500:56"/>Spirits</hi> were ſeene to approach, together with <hi>Serjeants, Baylifs</hi> and <hi>Petti-foggers</hi> who hauled and dragged, bound hand and foot, the <hi>Thiefs Evill Angell,</hi>
+                  <note place="margin">Accuſation againſt the Thieſes evill Angell.</note> accuſing him of a trepaſſe, very Criminall. The <hi>Lucifer,</hi> with a fell and cru<g ref="char:EOLhyphen"/>ell looke, ſitting himſelfe in a Chaire, of flaming fire: with all his <hi>Officers</hi> about him: at the in<g ref="char:EOLhyphen"/>ſtant a <hi>Reporter,</hi> (that's to ſay, he that hath the Office of rehearſing and informing of a buſineſſe) be<g ref="char:EOLhyphen"/>gan to ſay:
+<hi>Prince Lucifer,</hi> her's a <hi>Devill</hi> which wee bring unto you, accuſed to be ignorant, in the exerciſe of <hi>Devilliſhnes;</hi> it is a ſhame, that he ſhould be honou<g ref="char:EOLhyphen"/>red, with the Title and Quality of
+<hi>Devill,</hi> for, he trades in a Fun<g ref="char:EOLhyphen"/>ction, contrary to his Profeſſion, ſeeing, that all his worke, tends to no other end, but to cauſe men to be ſaved. All the <hi>Tribunall</hi> ſtarted, at this word, SAVE, as being, awfull in that place: they <pb n="87" facs="tcp:36500:56"/>did all bite their lippes, to the very bloud, teſtifying the horror they had thereof: and then the
+<hi>Supreme Curſed,</hi> turning towards his <hi>Attorney Generall;</hi> Is it poſſible, ſaid he, that amongſt my <hi>
+                     <g ref="char:V">Ʋ</g>aſſalls</hi> there ſhould be ſuch a perfidious Traitor? <hi>Lord Lucifer,</hi> anſwered the
+<hi>Patriarch,</hi> It is true that this <hi>Devill</hi> hath no other profeſſion, then to induce men, to ſteale and robbe their Neighbour: when they are diſcovered, they are im<g ref="char:EOLhyphen"/>priſoned, and then hanged: but before they are led, to the exe<g ref="char:EOLhyphen"/>cution, they are inſtructed admo<g ref="char:EOLhyphen"/>niſhed and exhorted unto Re<g ref="char:EOLhyphen"/>pentance, and by that meanes, they are ſaved; and, your
+<hi>Devill,</hi> who is none of the craftieſt in the World, thinking to have gai<g ref="char:EOLhyphen"/>ned thoſe Soules, when he hath cauſed them, to commit thoſe Crimes, he leaves them, whereas he ſhould tempt them to fall in Deſpaire, and kill themſelves in<g ref="char:EOLhyphen"/>ſomuch, <pb n="88" facs="tcp:36500:57"/>that being in the hands of a good
+<hi>Confeſſour</hi> he makes them have an earneſt remorce, in their conſciences, of their of<g ref="char:EOLhyphen"/>fences, and by that meanes they ſave themſelves againſt your <hi>De<g ref="char:EOLhyphen"/>vills</hi> beliefe, who hath not yet perceaved, that one may go to <hi>Heaven</hi> by the Gallowes or Flames. Thus your torments, have beene fruſtrate of their due, which ought to have befallen unto them: There needs no other accuſation againſt him, but that, ſaid the
+<hi>Preſident:</hi> And the poore <hi>Devil</hi> ſeeing that his ſentence was going to be given, began to cry out: <hi>My Lord,</hi> hearken unto me; for though it is ſaid that the <hi>Di<g ref="char:EOLhyphen"/>vell</hi> is Deafe, that's not to be un<g ref="char:EOLhyphen"/>derſtood, of your <hi>Greatneſſe.</hi> Every one was ſilent, and he ſaid: My <hi>Lord,</hi>
+                  <note place="margin">The Divels Inſtification</note> I grant you, that moſt of thoſe who are hanged do ſcape me: but, if you will make an eſti<g ref="char:EOLhyphen"/>mate, of thoſe which I cauſe to <pb n="89" facs="tcp:36500:57"/>be damned, condemning others: I am ſure, I ſhall be found quit, on that ſide: how many <hi>Officers,</hi> of all ſorts do I ſend you? whom I cauſe, to take Bribes, to let ſome of them looſe; how many <hi>Falſe Witneſſes</hi> do I ſend you, who de<g ref="char:EOLhyphen"/>poſe, according to the rate, of the money which is given them? How many <hi>Clarkes,</hi> who give unto a Proces, What forme the intereſſed deſire, ſo that they have wherewith to pay, for the making: How many <hi>Iailors</hi> gives the flight, unto the
+<hi>Pigeons</hi> of their Dove-houſe, in caſe they fill their purſe? and how many <hi>Attorneys,</hi> who neglect or for<g ref="char:EOLhyphen"/>ward th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> proceedings, according to the ſtipend, which is given them? And amongſt all theſe Bri<g ref="char:EOLhyphen"/>beries and Pillage if it happens, that they cauſe <hi>Iuſtice</hi> to be made of ſome <hi>Thiefe,</hi> it is not to de<g ref="char:EOLhyphen"/>ſtroy <hi>Theeves,</hi> but to the end, there ſhould be no others, then they, <pb n="90" facs="tcp:36500:58"/>and that, they ſhould remayne alone, in the <hi>CommonWealth:</hi> In<g ref="char:EOLhyphen"/>ſomuch, that when they puniſh a
+<hi>Theft,</hi> they do often commit many others, which are worſe then the Theeve's, whom they ſend to the Gallowes: for they are not inquired after: and though they were, they know the neceſ<g ref="char:EOLhyphen"/>ſary Cavillations and Crafts, to take away the knowledge there<g ref="char:EOLhyphen"/>of: ſo that all being well wayed &amp; conſidered, it happens, as unto him, who to drive the <hi>Rats,</hi> out of his Houſe, brought in, Cats: for if the <hi>Rats,</hi> did gnaw ſome peece of Bread, ſome rine of Bacon, ſome Candles ends, or Parchmin; the
+<hi>Cats</hi> doe overthrow, to day, his Pot, to morrow eate his ſupper, then his Partridges, ſo that at laſt, he is conſtrained to wiſh for his
+<hi>Rats,</hi> and deteſt his <hi>Cats.</hi>
+               </p>
+               <p>I have made uſe of that craft: I willingly trucke, one
+<hi>Thiefe,</hi> for two hundred, who Hang him; and <pb n="91" facs="tcp:36500:58"/>to three thouſand <hi>Old Witches,</hi> who go to the Gallowes, to looke out, for ſome Ropes ends, and great Teeth, to worke ſome miſ<g ref="char:EOLhyphen"/>chiefe. But whatſoever I doe for the advancement of your <hi>Empire,</hi> I am very ill recompenced: therefore I deſire to reſt my ſelfe, and I beſeech you; to give my place to another: as for my part, I intend to ſpend the reſt of my old age, by a <hi>Pretender.</hi>
+               </p>
+               <p>He had all the content which he could deſire, and a ſtrict in<g ref="char:EOLhyphen"/>hibition and defence unto the <hi>Evill Spirits,</hi> who had abuſed him, to take heed that they ſhould not miſtake in time to come, upon paine of Corporall and Spirituall puniſhment. Ne<g ref="char:EOLhyphen"/>vertheleſſe, he was intreated not to reſigne yet, his Office, conſi<g ref="char:EOLhyphen"/>dering, that he was of reaſonable yeeres, to execute it, and to do good Service therein, beſides, that to wait upon a <hi>Pretender,</hi> 
+                  <pb n="92" facs="tcp:36500:59"/>'twas an inſupportable trouble &amp; labour, and not an eaſe. I will do all what you pleaſe, ſaid he: but I believe that with a <hi>Pretender,</hi> a <hi>Devill,</hi> remaines his legs &amp; armes croſſe, &amp; his eares open, learning
+<hi>Devilliſhneſſe</hi> of him: I imagine that there will be but paſſe-time and recreation for me; 'twill be, as if I went to the
+<hi>Devills</hi> ſchoole: for thoſe kind of people teach the <hi>Devills Alphabet;</hi> by that meanes, ther's nothing to bee done about them, but to learne &amp; to be Silent.</p>
+               <p>Thereupon,<note place="margin">The Tobaccos Evill Angel.</note>
+                  <hi>the Tobacco's Evill Angell</hi> arrived: I was much aſto<g ref="char:EOLhyphen"/>niſhed with that <hi>
+                     <g ref="char:V">Ʋ</g>iſion:</hi> I had al<g ref="char:EOLhyphen"/>wayes imagined, that it was a
+<hi>De<g ref="char:EOLhyphen"/>vill,</hi> who poſſeſs'd many, but I did not alltogether beleeve it. I have, ſaid he, avenged the <hi>Indies,</hi> of the outrages, which the
+<hi>Spaniards</hi> had done there, for I have done more harme unto the
+<hi>Spaniards</hi> by introducting <hi>Tobacco</hi> amongſt them, then the
+<hi>King of Spaine</hi> 
+                  <pb n="93" facs="tcp:36500:59"/>did unto the <hi>Indians,</hi> when he ſent them <hi>Colon Cortes, Alemyro</hi> and <hi>Pizarro;</hi> becauſe
+'tis farre more Glorious, to die amongſt Shot, Swords, and Lances, then amongſt the Snot, Sneezings, Bel<g ref="char:EOLhyphen"/>ching, Giddineſſe, and ſome<g ref="char:EOLhyphen"/>times, the contagious Purples, which the ſtinking uſe of <hi>Tobacco</hi> ingenders. Theſe takers of <hi>To<g ref="char:EOLhyphen"/>bacco,</hi> meerely reſemble the Poſ<g ref="char:EOLhyphen"/>ſeſſed; when they are exerciſed, there goes forth from them Va<g ref="char:EOLhyphen"/>pors and Foames, at leaſt as in<g ref="char:EOLhyphen"/>fections: but they alwaies re<g ref="char:EOLhyphen"/>maine Poſſeſſed with the
+<hi>Evill Spirit:</hi> for they are Idolators of this <hi>Tobacco,</hi> they make a Deity of it, which raviſhes them, in an Extaſis, they praiſe and extoll it, above all things, they tempt and perſecute every one, to make them uſe it: If they take it in Smoake, they make in this World their Novitiat for
+<hi>Hell,</hi> where they muſt be hardned, to endure <pb n="94" facs="tcp:36500:60"/>Smoke: and if they take it in Snuffe, by their Noſtrils, they ac<g ref="char:EOLhyphen"/>cuſtome themſelves, unto the diſcommodities of <hi>Old age,</hi> whoſe Noſes are alwaies Snotty and Dropping, and Flegmes in their mouthes.</p>
+               <p>After this,<note place="margin">The Subor<g ref="char:EOLhyphen"/>ners Evill Angell.</note> came the <hi>Divell of Subornation:</hi> hee was Faire and well proportioned; whereat I was much aſtonied, having yet ſeene no
+<hi>Divels,</hi> except hee, but ſuch as were fearefully Ugly: his viſage was ſo familiar, that I thought I had ſeene him, in a thouſand other places, ſometimes Vaild, and ſometimes his Face Uncovered, ſometimes calling himſelfe, Childrens Play, and ſometimes, Courtſhip: ſome<g ref="char:EOLhyphen"/>times, tooke the name of<note n="*" place="margin">It alſo ſig<g ref="char:EOLhyphen"/>niſies, gift.</note> 
+                  <hi>Don,</hi> and of Preſent, and ſometimes, of Almes, here, of Payment, and there of Reſtitution, however, I never ſaw him called by his owne name. I alſo remember, <pb n="95" facs="tcp:36500:60"/>to have ſeene him named, <hi>Inheri<g ref="char:EOLhyphen"/>tance, Profit, Good cheape, Retrimo<g ref="char:EOLhyphen"/>ny, Reward</hi> and
+<hi>Nothing:</hi> as alſo to have knowne him in ſome o<g ref="char:EOLhyphen"/>ther place,
+<hi>Doctor,</hi> and in another <hi>Licentiat;</hi> amongſt all Women, he was a <hi>Batchellor;</hi> amongſt the <hi>Attorneyes, Clarkes</hi> and
+<hi>Advocates,</hi> he was reputed and called, <hi>Law and Equity.</hi>
+               </p>
+               <p>This <hi>Divell</hi> was well accom<g ref="char:EOLhyphen"/>panied;<note place="margin">The Evill Angell of Conſequence.</note> he pretended to the Ti<g ref="char:EOLhyphen"/>tle of <hi>Satans Lientenant.</hi> But the <hi>Divell of the Conſequence</hi> oppoſed himſelfe mightily to his deſigne, ſaying: I am the <hi>Imbroiler,</hi> the <hi>State Politicke,</hi> and he that Coggs
+<hi>Princes,</hi> the Pretext of the Un<g ref="char:EOLhyphen"/>worthy, and the excuſe of Ty<g ref="char:EOLhyphen"/>rants: I am an excellent Dyer, of evill actions; I give them what colour one will: Beſides, my ſtrength is able to turne all the World upſide down, and to put it in a generall Confuſion: I baniſh Reaſon; I convert the Impor<g ref="char:EOLhyphen"/>tunity, <pb n="96" facs="tcp:36500:61"/>into Merit; the example, in neceſſity. I can give a forme of Law unto Succeſſes, Authority to Infamy; and Credit to Inſolence: I can Shut, and ſometimes Open the mouth unto Counſellors ac<g ref="char:EOLhyphen"/>cording to my minde: In a word, I do that, which amongſt others, is eſteemed, Impoſſible: and as long as I ſhall bee in the World, there will be nothing to be fea<g ref="char:EOLhyphen"/>red, of Vertue, Iuſtice, nor of good Government. And alſo this <hi>Devill of Subornation,</hi> who pretends to the
+<hi>Lieutenancy,</hi> what had he done without me? If I did not put a vayle upon his face, how could he thruſt himſelfe in Magnificent Companies, as he doth? let him learne then to know himſelfe, and to hold his peace, and let him not diſpute with me the quality of <hi>Lucifers Lieutenant,</hi> which ought to bee granted unto me.</p>
+               <p>And I, ſaid another quarel<g ref="char:EOLhyphen"/>ſome <pb n="97" facs="tcp:36500:61"/>
+                  <hi>Spirit,</hi> I am one of thoſe,<note place="margin">The Cuc<g ref="char:EOLhyphen"/>kolds Evill Angell.</note> who moſt humbly hide them<g ref="char:EOLhyphen"/>ſelves, behind a Doore, who con<g ref="char:EOLhyphen"/>tents himſelfe with toyes and fopperies, a hundred to a pound: in fine I am a <hi>Laconick Devill,</hi> and with few words, I have but foure words to ſpeake, and then let him come next who will. I ſay then, that I am a
+<hi>Devill Interpreter,</hi> and the exerciſe which I doe in the World, is that I perſuade <hi>Cuckolds</hi> that it is an Honor, and a meanes to be knowen in the World, and that there are many who ſhould not be knowen, if their ſubtile Wives, did not pur<g ref="char:EOLhyphen"/>chaſe that quality unto them. As alſo, I cauſe a certaine Comeli<g ref="char:EOLhyphen"/>neſſe, and Charming Handſome<g ref="char:EOLhyphen"/>neſſe amongſt Women, thereby alwaies to have a friend, to make vſe of, in caſe of neceſſity: and cauſe all thoſe, who want ſuch dexterity, to be reputed as Silly, Sottiſh and to be deſpiſed; and <pb n="98" facs="tcp:36500:62"/>amongſt other things, wherein I meddle, I can cunningly convert the Theft, in an Office, and the Officers in Theeves. That being ſaid, the
+<hi>Devill</hi> was ſilent.</p>
+               <p>There was a little moment of ſilence; then another
+<hi>Devill</hi> was heard who ſaid: I am one of the leaſt, of the
+<hi>Diabolicall</hi> Nation: but yet, open the gate, for, I do not come, empty handed, as the reſt. What doſt thou bring? ſaid then the <hi>Secret Accuſer</hi> comming neere him: a <hi>Pratler</hi> and a <hi>Flatte<g ref="char:EOLhyphen"/>rer,</hi> which are Peeces of Cabinet, for <hi>Kings:</hi> and for that reaſon I bring them, unto ours. <hi>Lucifer</hi> did caſt his eyes upon them: and at the ſame inſtant, made a face as grimme and ſower, as if he had bitten a greene Crab, then he ſaid: Although as thou ſayeſt, they are Peeces for a
+<hi>King,</hi> I do not love that Preſent.</p>
+               <p>After that another <hi>Yong Devill</hi> appeared, ſaying:
+<hi>My Prince,</hi> it is <pb n="99" facs="tcp:36500:62"/>ſix yeeres ſince, that I am after a Baſe Fellow, worth nothing, and ſo little worth, that I do not know, how I could overcome him: for with being ſo Infamous, he is good for nothing, neither for Good, nor Evill. Thou art much troubled, ſaid the
+<hi>Douegna,</hi> why did'ſt thou not make him worth ſome thing, and then to have plac't him in Offices and Dignities, thou hadſt preſently inſnared him.</p>
+               <p>In the meane time,<note place="margin">The Luxu<g ref="char:EOLhyphen"/>rious Evill Angell.</note> the <hi>Secret Accuſer</hi> who went every where, in the forme of a ducke, ſearching out the faults of others, paſſ't by a Corner, where he found a great fagot of <hi>Old Devills</hi> all Moldy, Muſty, and full of Cob-webs: he came preſently to give notice; preſently they were unbound, to be ayred: 'twas very troubleſome to wake them; then they were ask't what
+<hi>Devills</hi> they were, what they meddled with, and <pb n="100" facs="tcp:36500:63"/>why they did not intend their Vocation. They anſwered ga<g ref="char:EOLhyphen"/>ping, they were the <hi>Devills</hi> for the <hi>Luxurious,</hi> but that ſince women had found Gold, more pleaſing and to be cheriſhed, then their Chaſtity, the <hi>Luxurious</hi> needed no <hi>Diabolicall</hi> Inſpirations nor ſub<g ref="char:EOLhyphen"/>tleties, to perſwade them, to yield unto their deſires, ſeeing, that the gliſtering brightneſſe of Gold, did ſo dazle their ſight, that it made them fall backward. That Gold ſupplied to all the defects and imperfections of Lo<g ref="char:EOLhyphen"/>vers, and that the Temptation of a bagge, hath more efficacy, then a thouſand <hi>Devills</hi> al together, be<g ref="char:EOLhyphen"/>cauſe a Woman or a Maid, will rather fall under a
+<note n="*" place="margin">
+                     <hi>Don</hi> in Spaniſh is the appoſiti<g ref="char:EOLhyphen"/>on to a <hi>Knight,</hi> as in Engliſh <hi>Sir.</hi> In French it ſignifies <hi>Gift</hi> The Nuns Evill Angell.</note> 
+                  <hi>Don,</hi> then under a Temptation, though it ſhould be called <hi>Lordſhip,</hi> and un<g ref="char:EOLhyphen"/>der a, <hi>Take this,</hi> then under a Million of Faire Words.</p>
+               <p>Next, was heard a <hi>Devill</hi> who ſnored: and but for that, they had <pb n="101" facs="tcp:36500:63"/>trodden upon him; but his owne noiſe, diſcovered him. He was taken, and ask't, why he ſlept thus, a
+<hi>Cuckolds</hi> ſleepe: It is three dayes ſince, ſaid he, that I ſleepe as you ſee, becauſe I have nothing to do: I have liberty, I am the
+<hi>Nuns Devill: My Ladyes</hi> are now buſie, to elect an
+<hi>Abbeſſe:</hi> and when they are buſied in that occupati<g ref="char:EOLhyphen"/>on, I may play and take my reſt at eaſe, for, ther's not one at that time, but is a very <hi>Devill.</hi> They make Parties, Bribe, they flatter this, and perſwade the other: to be ſhort, there's ſuch a Confuſion amongſt them, that my preſence would but diſturbe them: Alſo, thoſe
+<hi>Ambitious Ladies,</hi> make it a point of honor at that time, to have it ſeene, that they are more crafty and more ſubtile then the
+<hi>Devills:</hi> and I give you notice, that if by chance it happened, that Diſorder, Sedition, and Mutiny, came to be wanting here, and if
+<pb n="102" facs="tcp:36500:64"/>Peace did hazard to enter; 'twere but to make here, an Aſſembly of <hi>Nunnes,</hi> to elect an <hi>Abbeſſe,</hi> you ſhould ſee ſuch a Dreadfull Diſ<g ref="char:EOLhyphen"/>order, that wee ſhould not know one another.</p>
+               <p>
+                  <hi>Lucifer</hi> found this advertife<g ref="char:EOLhyphen"/>ment very good: and cauſed it to be Inrolled, in his Regiſters: and to the end hee might remedy all things, and alſo take care for the increaſe of his <hi>Empire,</hi> he commanded that all the Commu<g ref="char:EOLhyphen"/>nalties and Cantons of his Nati<g ref="char:EOLhyphen"/>ons, ſhould be aſſembled: and then in obedience of his <hi>Decree,</hi> there appeared almoſt an infinite multitude of <hi>
+                     <g ref="char:V">Ʋ</g>nhappy Spirits.</hi> At the ſame time <hi>Lucifer</hi> opening a horrible and fearefull mouth roa<g ref="char:EOLhyphen"/>red out, theſe Gratious Words.</p>
+            </div>
+            <div type="part">
+               <pb n="103" facs="tcp:36500:64" rendition="simple:additions"/>
+               <head>A DECREE OF <hi>L<g ref="char:V">Ʋ</g>CIFER,</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>for Reformation</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">D</seg>ESPERATE Legi<g ref="char:EOLhyphen"/>ons, People for ever condemned in the darkneſſe of my <hi>Em<g ref="char:EOLhyphen"/>pire,</hi> yea the Hire<g ref="char:EOLhyphen"/>lings of Sinne, unto whom Eternall Death is the payment: I let you know, that two <hi>Divels</hi> have preten<g ref="char:EOLhyphen"/>ded to the Dignity of my <hi>Lieute<g ref="char:EOLhyphen"/>nancy,</hi> and that I would not gratifie the one, nor the other thereof, con<g ref="char:EOLhyphen"/>ſidering that amongſt you is a
+<hi>She Divell,</hi> which merits it above all.</p>
+               <p>At theſe words, all the Aſſembly began to looke one upon another, and <pb n="104" facs="tcp:36500:65"/>to diſcourſe and murmure;
+<hi>Lucifer</hi> perceiving it: Doe not trouble your ſelves, ſaid he, to gueſſe who it ſhould be: Let <hi>Good Fortune</hi> come hither, which by another name is called, the <hi>She Divell Proſperity:</hi> and at the inſtant, <hi>She</hi> was ſeene to come from the reare of the company, who with a Proud and Scornefull looke made a ſtand, before the <hi>Degraded Angell,</hi> he having look'd on <hi>Her,</hi> ſpake after the ſame tone as he had begun. I Will, Ordaine, and Command, that yee honour and reſpect, next after me, the <hi>Lady Proſperity</hi> here preſent, as the moſt Great,<note place="margin">Effects of Proſperity</note> Superior, and Super<g ref="char:EOLhyphen"/>lative <hi>She Divell:</hi> Titles and Qua<g ref="char:EOLhyphen"/>lities, which I give
+<hi>Her,</hi> as due unto <hi>Her</hi> merit; becauſe ſhe alone, hath cauſed a hundred times more people, to be Damned, then all of you altoge<g ref="char:EOLhyphen"/>ther. Tis <hi>She</hi> which makes men, to forget <hi>God,</hi> and the affection to<g ref="char:EOLhyphen"/>wards their neighbour: tis <hi>She,</hi> that cauſes them, to eſtabliſh their <hi>SVMMVM BONVM</hi> in Riches, <pb n="105" facs="tcp:36500:65"/>who ingages and intangles them in Va<g ref="char:EOLhyphen"/>nity, which blinds them in the enjoying, which loades them with Treaſures, and which buries them, in their Treſpaſſes. In what Tragedy, hath She not played Her part? what Wiſedome and Prudence could ſtand ſo firme upon its Legs, which <hi>She</hi> hath not cauſed to Stumble? what Folly doth not augment, taking acceſſe with <hi>Her?</hi> what good Counſels, doth <hi>She</hi> Receive? what Correction doth
+<hi>She</hi> Fearè, &amp; which, doth <hi>She</hi> not Deſerve? After
+<hi>Her,</hi> who finds out and furniſhes matter, unto Scandals; experience, unto Hiſtories, who Foments Cruelty unto Ty<g ref="char:EOLhyphen"/>rants, and who imbrewes Hangmen with Blood? How many Soules are there, who lived in the State of Innocence with Po<g ref="char:EOLhyphen"/>verty, w<hi rend="sup">ch</hi> co<g ref="char:cmbAbbrStroke">̄</g>ming to receive the Favours of <hi>Proſperity,</hi> are become Wicked and Impious? Now then, <hi>Infernall Spirits,</hi> henceforth, let as much reverence be ren<g ref="char:EOLhyphen"/>dred unto <hi>Her,</hi> as unto my ſelfe, and know, that thoſe Soules which main<g ref="char:EOLhyphen"/>taine themſelves Humble, to the proofe of <hi>Proſperity,</hi> are none of your Game: <pb n="106" facs="tcp:36500:66"/>and therefore you muſt not inſiſt on them, for ther's nought elſe but time to be loſt. Conſidering, that they of the World, who obtaine and poſſeſſe all what they deſire, turne their backes preſently unto
+<hi>God,</hi> and forget him ſo much, that they doe not remember his name. The <hi>Poore</hi> contrariwiſe,<note place="margin">The Poore.</note> hath alwaies <hi>God</hi> for the object of his Heart, and for Motto theſe words in his mouth: <hi>LORD, I HAVE NO HOPE BVT IN THEE: MY GOD REMEMBER ME:</hi> And therefore, ſaid <hi>Lucifer,</hi> redoubling his curſed howlings: My Will and Pleaſure is, that from this time forth it ſhall be publiſhed, throughout all the extent of our <hi>Eſtates</hi> and <hi>Dominions,</hi> that Ca<g ref="char:EOLhyphen"/>lamities, Troubles, and Perſecution, are mortall Enemies unto
+<hi>Hell;</hi> ſeeing, they have beene acknowledged and noted to be of the contrary party, and to be inrol<g ref="char:EOLhyphen"/>led in <hi>Gods</hi> Warfare; and further, that they are effects of his Infinite Wiſedome, and Gifts of his <hi>Almighty hand.</hi>
+               </p>
+               <p>Item, to the end our Government ſhould be reformed, I ſtraightly will and <pb n="107" facs="tcp:36500:66"/>command, that my <hi>Devils</hi> ſhould al<g ref="char:EOLhyphen"/>waies be preſent in the <hi>Hearings</hi> and <hi>Tribunals of Magiſtrates</hi> diſcharging the ſaid <hi>Devils,</hi> of the care of
+<hi>Preten<g ref="char:EOLhyphen"/>ders, Pleaders, Flatterers</hi> &amp; <hi>Envious,</hi> ſeeing they know the way unto this <hi>Kingdome,</hi> and how to leade one ano<g ref="char:EOLhyphen"/>ther hither, better then the <hi>Devils</hi> can teach it them.</p>
+               <p>Item, that henceforth,<note place="margin">Profit is a Divell.</note> no <hi>Devill</hi> keep company with any other confident, but with him who is called <hi>Profit,</hi> conſide<g ref="char:EOLhyphen"/>ring that hee is the Harbinger, which lodgeth Vice, moſt largely, in the ſtrai<g ref="char:EOLhyphen"/>teſt Conſcience.</p>
+               <p>Item, in whatſoever part a <hi>Divell</hi> be,<note place="margin">Money one of the greateſt Devils.</note> excepting not any; we ordaine that whe<g ref="char:cmbAbbrStroke">̄</g> 
+                  <hi>Money</hi> ſhall arrive there, that he ſhall raiſe the ſiege, and with honour and re<g ref="char:EOLhyphen"/>verence, yield moſt humbly his place unto him, as acknowledging him a greater <hi>Divell</hi> then he, for that is moſt impor<g ref="char:EOLhyphen"/>tant, to the preſervation of our <hi>Empire.</hi>
+               </p>
+               <p>Item,<note place="margin">Idleneſſe the mother of Vice.</note> we moſt ſtraightly and expreſly command unto all our <hi>Officers,</hi> to im<g ref="char:EOLhyphen"/>peach and hinder Warre, from all parts, <pb n="108" facs="tcp:36500:67"/>aſmuch as in them lies, becauſe it exerci<g ref="char:EOLhyphen"/>ſes, the Couragious; it doth recompenſe, the Vertuous; imploys, the Valiant; cauſes <hi>God</hi> to be remembred, and caſheeres Jdlenes, which is our intimate Friend. And for the better effecting of this pre<g ref="char:EOLhyphen"/>ſent Article, wee ordaine unto all our <hi>Devills,</hi> to eſtabliſh a generall Peace, throughout all the World in caſe they can compaſſe it, becauſe during its Raigne, all manner of debauſhes, will have free liberty: <hi>Idleneſſe,</hi> is put in practiſe:
+<hi>Luxury,</hi> is in faſhion; <hi>Gluttony,</hi> is exerciſed;
+<hi>Detraction,</hi> is put in uſe, <hi>Lying,</hi> is eſtabliſhed;
+<hi>Pandars</hi> are bu<g ref="char:EOLhyphen"/>ſied, and <hi>Whores,</hi> imployed, in a word, all Vices increaſe, and Vertue declines.</p>
+               <p>Jtem,<note place="margin">Touching the Luxu<g ref="char:EOLhyphen"/>rious.</note> we henceforth, exempt and diſpence our <hi>Lieutenants,</hi> of the paines which they were wont to take by intang<g ref="char:EOLhyphen"/>ling men, in the Laſciviouſneſſe and Vo<g ref="char:EOLhyphen"/>luptuouſneſſe of Women, becauſe we know by experience, that there is no ſinne, which is more truſty and faithfull unto us, then that, for as ſoone as Repentance his capitall enemy, hath, for ſome time,
+<pb n="109" facs="tcp:36500:67"/>cauſed him to diſlodge from any place, he is ſo affectionate for our ſervice, that he re-enters there preſently, when it takes a ſtronger roote then before.</p>
+               <p>Item,<note place="margin">Touching certaine Merchants</note> in conſideration of the Exemp<g ref="char:EOLhyphen"/>tion aforeſaid, and ſeeing, that there are
+<hi>Notable Merchants,</hi> in many Townes and Villages of the World, who charita<g ref="char:EOLhyphen"/>bly ſuccour, many perſons, and amongſt the reſt, the
+<hi>Youth</hi> of theſe times, com<g ref="char:EOLhyphen"/>monly called Debauſh'd, which to borrow money, have recourſe unto them: And the <hi>Merchants</hi> excuſing themſelves, ſaying, their Purſes are empty; offers the<g ref="char:cmbAbbrStroke">̄</g>, ſome Wares out of their ſhops, which thoſe that are in want, doe accept, with an intention to ſell them againe, to ſup<g ref="char:EOLhyphen"/>ply, to their exceſſe or neceſſities: and underhand thoſe <hi>Merchants</hi> have con<g ref="char:EOLhyphen"/>fidents who acquaint themſelves, with thoſe who want; and goe along with them to the
+<hi>Merchant,</hi> which ſells his Merchandiſes at an exceſſive rate, then, when they have ſold it very cheape, and accommodated themſelves, the
+<hi>Mer<g ref="char:EOLhyphen"/>chant</hi> hath his Wares againe, and thus, <pb n="110" facs="tcp:36500:68"/>he obliges thoſe who crave his aſſiſtance. In conſideration whereof, wee ordaine, unto the moſt Vigilant of our <hi>Devils,</hi> to aſſiſt and remaine perpetually, as <hi>Factors</hi> in the ſervice of thoſe
+<hi>Merchants,</hi> ſee<g ref="char:EOLhyphen"/>ing, that in ſuch a Negotiation, they need our helpe and induſtry.</p>
+               <p>Item, our Will and Intention is, that our ſaid
+<hi>Devils,</hi> keepe a conſtant com<g ref="char:EOLhyphen"/>pany, unto our beloved Friends the
+<hi>Venerious, Revengeful, Envious,</hi> &amp; <hi>Pretenders</hi> to Offices or Dignities, and above all the reſt unto <hi>Hypocrites,</hi> con<g ref="char:EOLhyphen"/>ſidering, that it is the Mediator for all things, the Charme of all the ſences and powers of the Soule, who works ſo Curi<g ref="char:EOLhyphen"/>ouſly that its operations are Impercepti<g ref="char:EOLhyphen"/>ble unto the ſences therefore it is admit<g ref="char:EOLhyphen"/>ted, Recompenced and Adored of many.</p>
+               <p>Item,<note place="margin">Touching Reporters of Secrets.</note> We ordaine that the <hi>Reporters of Secrets,</hi> and <hi>Sowers of Sedition</hi> may be carefully maintained, becauſe it is one of our ſeeds, which fructifies moſt.</p>
+               <p>Item,<note place="margin">Flatterers.</note> We ordaine that
+<hi>Flatterers</hi> &amp; <hi>Kindlers</hi> of Noiſes, Debates, Divorces, Quarells and Diſſentions may ſerve in <pb n="111" facs="tcp:36500:68"/>ſteed of Bellowes, and not of Fannes, to the end they may blow and inflame, and not tem<g ref="char:EOLhyphen"/>per and refreſh.</p>
+               <p>Item,<note place="margin">Inter-medlers of others affaires.</note> that the <hi>Inter-meddlers</hi> of others affaires be the Lice of
+<hi>Hell,</hi> that they may eate to the very bloud, thoſe who nouriſh and entertaine them.</p>
+               <p>Then <hi>Lucifer,</hi> with a ſterne and grimme countenance and looking ſide-wiſe upon the <hi>Doüegna,</hi> ſaid this Proverbe which is in uſe amongſt the Spaniards; <hi>Düenas de ſe las Dios a quier las deſca: God</hi> give the <hi>Doüegna</hi> unto whom will have her. I am much troubled, ſaid he afterwards, what I ſhall do with them, I know not where to caſt them. And then the <hi>Damned</hi> who ſaw that he diſpoſed himſelf to raine a ſhowre of <hi>Doü<g ref="char:EOLhyphen"/>egnas</hi> on them, cryed out all with one voice: Do we not ſuffer torments enough, without the addition of this? then every one ſaid to himſelfe; Oh curſed
+<hi>Lucifer,</hi> caſt them where thou wilt, ſo it be not neere me, and as they uttered thoſe words, they hid their heads one amongſt the other, as Sheepe doe in the Fields during the ſcorching heat of the Sum<g ref="char:EOLhyphen"/>mer, for feare of this new torment where<g ref="char:EOLhyphen"/>of <pb n="112" facs="tcp:36500:69"/>
+                  <hi>Lucifer</hi> threatned them. He, ſeeing the extreame terror wherein he had put them, contented himſelfe with that; Then he ſaid: Well then, looke that henceforth, my Lawes and ordinances may be punctually obſerved. <hi>Alias,</hi> I ſweare by my <hi>Darkneſſe,</hi> and by the <hi>Obſcurity of my Crowne,</hi> that, that <hi>Devil</hi> or <hi>Damned</hi> who ſhall infringe them, ſhal be condemned to the torment of <hi>Doüeg<g ref="char:EOLhyphen"/>na,</hi> that is to ſay, that there ſhall be one chained with him, any oppoſition or appelati<g ref="char:EOLhyphen"/>on whatſoever in any wiſe notwithſtanding. And as for them, let them be preſently lock'd up, by themſelves in that Dungeon of Iakes, to make uſe of them, as we ſhall ſee cauſe that place and time ſhall require.</p>
+               <p>
+                  <hi>After this ſolemne</hi> Decree, Lucifer <hi>retired him<g ref="char:EOLhyphen"/>ſelfe within the gulfe of his eternall night; and the Aſſembly frighted, w<hi rend="sup">th</hi> this horrible threat, disbanded: every one went to exerciſe the fun<g ref="char:EOLhyphen"/>ction of his Office: all at once vaniſhd away, and at the inſtant an Angelicall voyce was heard, which uttered theſe words:</hi> Whoſoever ſhall have the underſtanding to comprehend the Morality of this Diſcourſe may reape a moſt advantageous profit for his Soule, and may ſay: <hi>SALVTEM EX INIMICIS NOSTRIS, ET DE MANV OMNIVM QVI ODERVNT NOS.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36500:69"/>
+         </div>
+      </body>
+   </text>
+</TEI>
